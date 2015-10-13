@@ -1,0 +1,20 @@
+<a href="/">
+    <div class="project-image">
+        {{ range .Site.Params.images }}
+        <div>
+            <img class="project" src="/{{.}}" />
+        </div>
+        {{end}}
+    </div>
+</a>
+<nav>
+    <ul>
+        {{range .Site.Menus.main}}
+        <li>
+            <a href="/{{.URL}}">
+                <h3>{{.Name}}</h3>
+            </a>
+        </li>
+        {{end}}
+    </ul>
+</nav>

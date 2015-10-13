@@ -1,0 +1,35 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+relativeURLs=true
+disableRSS=true
+metaDataFormat = "toml"
+
+[params]
+    description = "La description"
+    generator="Hugo 0.14"
+    author = "Erik Aouizerate"
+    subdomain = ""
+    images=["img/img1.jpg","img/img2.jpeg","img/img3.jpeg","img/img4.jpg"]
+
+[[menu.main]]
+    name = "Prestations"
+    url = "prestation"
+    weight = 10
+[[menu.main]]
+    name = "Références"
+    url = "reference"
+    weight = 20
+[[menu.main]]
+    name = "Agenda"
+    url = "agenda"
+    weight = 30
+[[menu.main]]
+    name = "Partenaires"
+    url = "partenaire"
+    weight = 40
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 50

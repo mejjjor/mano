@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+<div id="nav">
+{{ partial "nav.html" . }}
+</div>
+	<h3>Le titre : {{ .Title}}</h3> 
+	<p>
+		{{.Content}}
+	</p>
+{{ partial "footer.html" . }}
