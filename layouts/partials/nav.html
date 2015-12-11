@@ -1,4 +1,4 @@
-<a href="/">
+{{if eq .URL "/"}}
     <div class="project-image">
         {{ range .Site.Params.images }}
         <div>
@@ -6,15 +6,27 @@
         </div>
         {{end}}
     </div>
+{{end}}
+<a href="/">
+    <div id="header-container" class='{{if ne .URL "/"}}header{{end}} {{if eq .URL "/"}}home-header{{end}}'>
+        <div id="header">
+            <h2>ARTISTE</h2>
+            <h1 id="title-name">MANOËL MATHIS</h1>
+            <h2>PERFORMER</h2>
+        </div>
+    </div>
 </a>
+
 <nav>
     <ul>
+        {{ $currentURL := .URL }}
         {{range .Site.Menus.main}}
-        <li>
-            <a href="/{{.URL}}">
-                <h3>{{.Name}}</h3>
+        <li class="{{if eq $currentURL .URL}}nav-active{{end}}">
+            <a href="{{.URL}}">
+                <h4>{{.Name}}</h4>
             </a>
         </li>
         {{end}}
     </ul>
 </nav>
+

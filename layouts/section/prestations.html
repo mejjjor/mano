@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+
+{{ range .Data.Pages }}
+<div>
+    <a href="{{.Title}}">{{ .Title}}</a> : {{.Description}}
+</div>
+{{ end }}
+{{ partial "footer.html" . }}

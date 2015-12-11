@@ -3,15 +3,14 @@ var slick = require('./slick.js');
 
 $(document).ready(function() {
     $('.project-image').slick({
+        lazyLoad: 'ondemand',
         slidesToShow: 1,
         fade: true,
         slidesToScroll: 1,
-        dots: false,
         infinite: true,
-        arrows: false,
         autoplay: true,
-        speed:1500,
-        cssEase: 'cubic-bezier(.98,.47,.49,.23)',
-        autoplaySpeed: 5000
+        speed:1000,
+        cssEase: 'cubic-bezier(1,.5,.5,.30)',
+        autoplaySpeed: 3000
     });
 });

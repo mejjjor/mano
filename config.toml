@@ -11,25 +11,31 @@ metaDataFormat = "toml"
     generator="Hugo 0.14"
     author = "Erik Aouizerate"
     subdomain = ""
-    images=["img/img1.jpg","img/img2.jpeg","img/img3.jpeg","img/img4.jpg"]
+    images=["img/home_1.jpg","img/home_2.jpg","img/home_3.jpg","img/home_4.jpg"]
+    image="img/home_profil.jpg"
 
 [[menu.main]]
-    name = "Prestations"
-    url = "prestation"
+    name = "PRESTATIONS"
+    url = "/prestations/"
+    identifier = "prestations"
     weight = 10
 [[menu.main]]
-    name = "Références"
-    url = "reference"
+    name = "PHOTOS"
+    url = "/photos/"
+    identifier = "photos"
     weight = 20
 [[menu.main]]
-    name = "Agenda"
-    url = "agenda"
+    name = "AGENDA"
+    url = "/agenda/"
+    identifier = "agenda"
     weight = 30
 [[menu.main]]
-    name = "Partenaires"
-    url = "partenaire"
+    name = "RÉFÉRENCES"
+    url = "/references/"
+    identifier = "references"
     weight = 40
 [[menu.main]]
-    name = "Contact"
-    url = "contact"
+    name = "CONTACT"
+    url = "/contact/"
+    identifier = "contact"
     weight = 50
