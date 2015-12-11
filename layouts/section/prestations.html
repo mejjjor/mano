@@ -1,8 +1,19 @@
 {{ partial "header.html" . }}
 
-{{ range .Data.Pages }}
-<div>
-    <a href="{{.Title}}">{{ .Title}}</a> : {{.Description}}
+<div id="prestations">
+    {{ range .Data.Pages }}
+    <div>
+        <a href="{{.Title}}">
+            <div>
+                <div>{{ .Title}}
+                </div>
+                <div>
+                    {{.Description}}
+                </div>
+            </div>
+            <img src="{{.Params.thumbnail}}">
+        </a>
+    </div>
+    {{ end }}
 </div>
-{{ end }}
 {{ partial "footer.html" . }}

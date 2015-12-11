@@ -1,8 +1,11 @@
 @blue: #09324b;
 @blueTransparent: rgba(9,50,75,0.5) ;
 @red: #be1428;
+@redTransparent:rgba(190,20,40,0.5) ;
 @widthHeader : 700px;
-@goldenNumber : 50px;
+@goldenNumber : 55px;
+@contentWidth : 80%;
+@footerSize : 13px;
 
 @font-face {
   font-family: 'SourceCode';
@@ -26,11 +29,12 @@ html, body{
 
 a{
   text-decoration: none;
+  color: inherit;
 }
 
 #page-container {
   min-height: 100%;
-  margin-bottom: -13px;
+  margin-bottom: -@footerSize;
 }
 #page-container:after {
   content: "";
@@ -139,7 +143,7 @@ nav {
 
 #home{
   background: @blueTransparent;
-  width: 80%;
+  width:@contentWidth;
   margin: 0 auto @goldenNumber auto;
   display: flex;
   img{
@@ -158,10 +162,56 @@ nav {
   }
 }
 
+#prestations{
+  width: @contentWidth;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  >div {
+    border-top: 1px solid @blue;
+    font-size: 12pt;
+    a {
+      display: flex;
+      max-height: 2*@goldenNumber;
+      margin: @goldenNumber/2 0;
+
+      > div {
+        width: 30%;
+        background-color: @blueTransparent;
+        padding: @goldenNumber/2;
+        :nth-child(1){
+        letter-spacing: 4px;
+          color: #fff;
+      }
+      }
+      img {
+        max-width: 70%;
+        height: auto;
+      }
+    }
+  }
+  :nth-child(1){
+    border:transparent;
+    a{
+      margin-top: 0;
+    }
+  }
+  :last-child a{
+    margin-bottom: @goldenNumber+@footerSize;
+  }
+  :hover{
+    a>div{
+      background-color: @redTransparent;
+    }
+  }
+}
+
 
 footer{
   text-align: center;
-  height: 13px;
+  height: @footerSize;
   font-size: 10px;
   background-color: #fff;
   a{
