@@ -1,1 +1,48 @@
-aaaaaa
+{{ partial "header.html" . }}
+
+<div id="prestation">
+    <div>
+        <div>
+            <div class="prestation-title">
+                {{ .Title}}
+            </div>
+            <div>
+                {{.Description}}
+            </div>
+        </div>
+        <img src="/img/icons/arrow-right.png"/>
+    </div>
+    <div>
+        <iframe  src="{{.Params.video}}" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div>
+        {{.Content}}
+    </div>
+    <div>
+        <table>
+            {{ $count := len .Params.images }}
+            {{ range $index, $elem := .Params.images}}
+            {{ $c :=add $index 1 }}
+            {{ if eq ( mod $c 3  ) 1 }}
+            <tr>
+                {{ end }}
+                <td>
+                    <div class="image-gallery">
+                        <div class="image-container">
+                            <a  href="/{{.}}" data-lightbox="gallery" data-title="">
+                                <img  src="/{{.}}" />
+                                <span class="image-drawer"><span></span></span>
+                            </a>
+                        </div>
+                    </div>
+                </td>
+                {{ if or (eq ( mod $c 3  ) 0) (eq $count $index) }}
+            </tr>
+            {{ end }}
+            {{end}}
+        </table>
+    </div>
+</div>
+
+<script src="/js/lightbox.js"></script>
+{{ partial "footer.html" . }}

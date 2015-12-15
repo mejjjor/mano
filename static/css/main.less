@@ -3,7 +3,7 @@
 @red: #be1428;
 @redTransparent:rgba(190,20,40,0.5) ;
 @widthHeader : 700px;
-@goldenNumber : 55px;
+@goldenNumber : 50px;
 @contentWidth : 80%;
 @footerSize : 13px;
 
@@ -39,6 +39,16 @@ a{
 #page-container:after {
   content: "";
   display: block;
+}
+
+footer{
+  text-align: center;
+  height: @footerSize;
+  font-size: 10px;
+  background-color: #fff;
+  a{
+    color: @blue;
+  }
 }
 
 #header-container{
@@ -162,16 +172,17 @@ nav {
   }
 }
 
+.prestation-title{
+  letter-spacing: 4px;
+  color: #fff;
+}
+
 #prestations{
   width: @contentWidth;
   margin: auto;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-
   >div {
     border-top: 1px solid @blue;
-    font-size: 12pt;
+    font-size: 11pt;
     a {
       display: flex;
       max-height: 2*@goldenNumber;
@@ -181,10 +192,7 @@ nav {
         width: 30%;
         background-color: @blueTransparent;
         padding: @goldenNumber/2;
-        :nth-child(1){
-        letter-spacing: 4px;
-          color: #fff;
-      }
+
       }
       img {
         max-width: 70%;
@@ -208,14 +216,94 @@ nav {
   }
 }
 
+#prestation {
+  width: @contentWidth;
+  margin: auto;
+  > * {
+    margin-bottom: @goldenNumber;
+  }
+  > div:nth-of-type(1) {
+    background-color: @blueTransparent;
+    display: flex;
+    justify-content: space-between;
+    max-height: 2*@goldenNumber;
+    > div {
+      padding: @goldenNumber/2;
+    }
+  }
+  iframe {
+    width: 728px;
+    height: 410px;
+    display: block;
+    margin: auto;
+  }
+  > div:nth-of-type(3) {
+    text-align: justify;
+  }
+  > div:nth-of-type(4) {
+    img:hover~span{
+        display: block;
+    }
+    span:hover{
+      display: block;
+    }
+    img {
+      vertical-align: bottom;
+    }
 
-footer{
-  text-align: center;
-  height: @footerSize;
-  font-size: 10px;
-  background-color: #fff;
-  a{
-    color: @blue;
+    .image-drawer{
+      display: none;
+        width: 100%;
+      height: @goldenNumber;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      line-height:50px;
+      text-align: start;
+      span{
+        padding-left: 10px;
+        color: #fff;
+      }
+      background-color: @redTransparent;
+    }
+    .image-container{
+      position: relative;
+      display: inline;
+    }
+
+    tr:first-child{
+      div{
+        padding-top: 0;
+      }
+    }
+    tr:last-child{
+      div{
+      border-bottom: transparent;
+        padding-bottom: 0;
+      }
+    }
+    tr{
+      td:first-child{
+        div{
+          padding-left: 0;
+        }
+      }
+      td:nth-child(3){
+        div{
+          border-right: transparent;
+          padding-right: 0;
+        }
+      }
+    }
   }
 }
+
+.image-gallery{
+  padding: @goldenNumber/2;
+  border-right: 2px solid @blueTransparent;
+  border-bottom: 2px solid @blueTransparent;
+  text-align: center;
+
+}
+
 

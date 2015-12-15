@@ -11,8 +11,8 @@ metaDataFormat = "toml"
     generator="Hugo 0.14"
     author = "Erik Aouizerate"
     subdomain = ""
-    images=["img/home_1.jpg","img/home_2.jpg","img/home_3.jpg","img/home_4.jpg"]
-    image="img/home_profil.jpg"
+    images=["img/home/home_1.jpg","img/home/home_2.jpg","img/home/home_3.jpg","img/home/home_4.jpg"]
+    image="img/home/home_profil.jpg"
 
 [[menu.main]]
     name = "PRESTATIONS"

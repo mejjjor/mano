@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf public/*",
-    "build:scripts": "browserify -d static/js/main.js -o static/js/app.min.js",
-    "build:styles": "pleeease watch node_modules/normalize.css/normalize.css node_modules/slick-carousel/slick/slick.css node_modules/slick-carousel/slick/slick-theme.css static/css/main.less to static/css/app.min.css",
+    "build:scripts": "browserify -d static/js/main.js static/js/lightbox.js -o static/js/app.min.js",
+    "build:styles": "pleeease watch node_modules/normalize.css/normalize.css node_modules/slick-carousel/slick/slick.css node_modules/slick-carousel/slick/slick-theme.css static/css/lightbox.css static/css/main.less to static/css/app.min.css",
     "dev": "npm run build:scripts && npm run build:styles"
   },
   "author": "",
