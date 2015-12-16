@@ -4,8 +4,8 @@
     <div>
         <div class="reference-title">TÉLÉVISION</div>
         <div class="reference-gallery">
-            {{ range .Data.Pages}}
-            <img  src="/{{.Params.image}}" />
+            {{ range where .Data.Pages  "Params.categorie" "societe"}}
+                    <img  src="/{{.Params.image}}" />
             {{end}}
         </div>
     </div>

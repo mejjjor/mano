@@ -2,6 +2,7 @@
 @blueTransparent: rgba(9,50,75,0.5) ;
 @red: #be1428;
 @redTransparent:rgba(190,20,40,0.5) ;
+@blueBis:#7B909C;
 @widthHeader : 700px;
 @goldenNumber : 50px;
 @contentWidth : 80%;
@@ -187,18 +188,18 @@ nav {
     font-size: 11pt;
     a {
       display: flex;
+      justify-content: space-between;
       max-height: 2*@goldenNumber;
       margin: @goldenNumber/2 0;
 
+      background-color: @blueTransparent;
       > div {
-        width: 30%;
-        background-color: @blueTransparent;
+        width: 30% ;
         padding: @goldenNumber/2;
-
       }
       img {
-        max-width: 70%;
-        height: auto;
+        height: @goldenNumber*2;
+        justify-self: flex-end;
       }
     }
   }
@@ -209,10 +210,10 @@ nav {
     }
   }
   :last-child a{
-    margin-bottom: @goldenNumber+@footerSize;
+    margin-bottom: @goldenNumber;
   }
-  :hover{
-    a>div{
+  >div:hover{
+    a{
       background-color: @redTransparent;
     }
   }
@@ -311,6 +312,11 @@ nav {
       padding: @goldenNumber/2;
       color:@blue;
     }
+    div:hover{
+      >div:nth-of-type(1){
+        background-color: @redTransparent;
+      }
+    }
   }
 }
 
@@ -326,9 +332,15 @@ nav {
     border-right: 2px solid @blueTransparent;
   }
   .reference-gallery{
-    display :flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+
+     margin-left: @goldenNumber/2;
+    table-layout: fixed;
+  tr{
+    width: 100%;
+  }
+    img{
+    border-bottom: 2px solid @blueTransparent;
+    }
   }
   >div:last-child{
     border-right: transparent;
@@ -336,7 +348,7 @@ nav {
 
   img{
     height: 80px;
-    padding:  @goldenNumber/2;
+    padding: @goldenNumber/2 ;
   }
   .reference-title{
     background-color: @blueTransparent;
@@ -397,16 +409,13 @@ nav {
     margin-right: @goldenNumber;
     text-align: justify;
   }
-
   span{
     display: block;
   }
-
   display: flex;
   justify-content: space-between;
   form{
     width: 100%;
-
     td{
       border: 2px solid @blue;
       color: #fff;
@@ -414,14 +423,19 @@ nav {
     input, textarea{
       height: 100%;
       width: 98%;
-      background-color: @blueTransparent;
+      background-color: @blueBis;
       border: transparent;
       border: 0;
       padding-left: 2%;
+      -moz-box-sizing: border-box;
+    }
+    input:-webkit-autofill {
+      -webkit-box-shadow: 0 0 0px 1000px @blueBis inset;
+      -webkit-text-fill-color: #fff;
     }
     textarea{
       width: 97.6%;
-      height: 102%;
+      height: 97.6%;
       resize: none;
     }
     input[type="submit"]{
@@ -436,10 +450,15 @@ nav {
     tr td:first-of-type{
       min-width: @goldenNumber*2;
       padding: @goldenNumber/2;
-      background-color: @blueTransparent;
+      background-color: @blueBis;
     }
     tr td:last-of-type{
+      div{
+        width: 100%;
+        background-color: #eee;
+      }
       width: 100%;
+      background-color: @blueBis;
     }
   }
 }

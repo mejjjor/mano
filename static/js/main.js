@@ -5,7 +5,7 @@ var slick = require('./slick.js');
 var maxRatio = 0;
 var imagesLabel = [];
 
-$(document).ready(function() {
+$( window ).load(function() {
     $('.project-image').slick({
         lazyLoad: 'ondemand',
         slidesToShow: 1,
@@ -18,10 +18,7 @@ $(document).ready(function() {
         autoplaySpeed: 3000
     });
 
-    resizeImg()
-
-
-
+    resizeImg();
 });
 
 window.onresize = function() {
