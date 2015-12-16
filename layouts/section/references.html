@@ -1,5 +1,24 @@
 {{ partial "header.html" . }}
 
-	Des ref en veux tu en voila
+<div id="references">
+    <div>
+        <div class="reference-title">TÉLÉVISION</div>
+        <div class="reference-gallery">
+            {{ range .Data.Pages}}
+            <img  src="/{{.Params.image}}" />
+            {{end}}
+        </div>
+    </div>
+    <div>
+        <div>
+            <div class="reference-title">ÉVENEMENTIEL</div>
+        </div>
+        <div></div>
+    </div>
+    <div>
+        <div class="reference-title">SOCIÉTÉS</div>
 
-	{{ partial "footer.html" . }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}

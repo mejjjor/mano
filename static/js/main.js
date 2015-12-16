@@ -18,6 +18,18 @@ $(document).ready(function() {
         autoplaySpeed: 3000
     });
 
+    resizeImg()
+
+
+
+});
+
+window.onresize = function() {
+    resizeImg();
+};
+
+
+function resizeImg(){
     var images = $('.image-gallery img');
     var width = (window.innerWidth*0.8/3-39);
 
@@ -34,11 +46,10 @@ $(document).ready(function() {
     images.each(function(){
         $(this).height(width/maxRatio);
         var str = $(this)[0].currentSrc.match(/[-_\w]+[.][\w]+$/)[0].match(/[-_\w]+\./)[0];
-        imagesLabel.push(str.replace(/_/i, " ").slice(0, -1));
+        imagesLabel.push(str.split("_").join(" ").slice(0, -1));
     });
 
     $('.image-drawer').each(function(){
-          $(this).html("<span>"+imagesLabel.splice(0,1)[0]+"</span>") ;
+        $(this).html("<div>"+imagesLabel.splice(0,1)[0]+"</div>") ;
     });
-
-});
+}

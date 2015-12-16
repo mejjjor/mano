@@ -1,13 +1,1 @@
-{{ partial "header.html" . }}
 
-<div id="nav-image-container">
-    <div class="project-image">
-        {{ range .Site.Params.images }}
-        <div>
-            <img class="project" src="/{{.}}" />
-        </div>
-        {{end}}
-    </div>
-</div>
-
-{{ partial "footer.html" . }}

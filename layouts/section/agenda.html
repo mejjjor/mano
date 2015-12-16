@@ -1,4 +1,19 @@
 {{ partial "header.html" . }}
-    AGENDA
-
-    {{ partial "footer.html" . }}
+<div id="agenda">
+    <div>
+        Retrouvez-moi sur scène !
+    </div>
+    <div>
+    {{ range .Data.Pages}}
+        <div>
+            <div>
+                <span>{{.Title}} / {{.Params.dates}}</span>
+            </div>
+            <div>
+              <span>{{.Params.lieu}} / <a target="-_blank" href="{{.Params.link}}">Achetez votre billet ici !</a></span>
+            </div>
+        </div>
+    {{end}}
+    </div>
+</div>
+{{partial "footer.html" .}}

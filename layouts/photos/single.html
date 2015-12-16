@@ -1,12 +1,29 @@
-<div id="nav-image-container">
-    <div class="project-image">
-        {{ range .Site.Params.images }}
-        <div>
-            <img class="project" src="/{{.}}" />
-        </div>
+{{ partial "header.html" . }}
+
+<div id="photos">
+    <table class="table-images">
+        {{ $count := len .Params.images }}
+        {{ range $index, $elem := .Params.images}}
+        {{ $c :=add $index 1 }}
+        {{ if eq ( mod $c 3  ) 1 }}
+        <tr>
+            {{ end }}
+            <td>
+                <div class="image-gallery">
+                    <div class="image-container">
+                        <a  href="/{{.}}" data-lightbox="gallery" data-title="">
+                            <img  src="/{{.}}" />
+                            <div class="image-drawer"><div></div></div>
+                        </a>
+                    </div>
+                </div>
+            </td>
+            {{ if or (eq ( mod $c 3  ) 0) (eq $count $index) }}
+        </tr>
+        {{ end }}
         {{end}}
-    </div>
+    </table>
 </div>
-<div id="footer">
-    {{ partial "footer.html" . }}
-</div>
+
+<script src="/js/lightbox.js"></script>
+{{ partial "footer.html" . }}

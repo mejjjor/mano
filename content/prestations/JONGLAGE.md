@@ -4,7 +4,7 @@ title = "JONGLAGE"
 description="Déambulations créatives originales"
 thumbnail="/img/home/home_1.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
-images=["img/prestations/jonglage_2.jpg","img/prestations/jonglage_3.jpg","img/prestations/jonglage_4.jpg","img/prestations/jonglage_5.jpg","img/prestations/jonglage_5.jpg"]
+images=["img/prestations/jonglage_2.jpg","img/prestations/UNE_BELLE_EPEE.jpg","img/prestations/jonglage_4.jpg","img/prestations/jonglage_5.jpg","img/prestations/jonglage_5.jpg"]
 weight=30
 +++
 

@@ -21,7 +21,7 @@ metaDataFormat = "toml"
     weight = 10
 [[menu.main]]
     name = "PHOTOS"
-    url = "/photos/"
+    url = "/photos/all"
     identifier = "photos"
     weight = 20
 [[menu.main]]
