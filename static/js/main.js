@@ -6,6 +6,12 @@ var maxRatio = 0;
 var imagesLabel = [];
 
 $( window ).load(function() {
+    $('.project-image img').each(function(){
+       $(this).css("display","block");
+    });
+    $('.project-image div').each(function(){
+        $(this).css("height","300px");
+    });
     $('.project-image').slick({
         lazyLoad: 'ondemand',
         slidesToShow: 1,

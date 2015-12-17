@@ -99,9 +99,13 @@ footer{
 .project-image {
   width: 100%;
   margin: 0;
+  div{
+    height: auto;
+  }
   img {
     width: 100%;
     margin: auto;
+    display: none;
   }
 }
 
@@ -332,14 +336,18 @@ nav {
     border-right: 2px solid @blueTransparent;
   }
   .reference-gallery{
-
-     margin-left: @goldenNumber/2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
     table-layout: fixed;
+    padding: 0 @goldenNumber/4;
   tr{
     width: 100%;
   }
     img{
-    border-bottom: 2px solid @blueTransparent;
+    //border-bottom: 2px solid @blueTransparent;
+
+      padding:   @goldenNumber/2 @goldenNumber/4  0  @goldenNumber/4 ;
     }
   }
   >div:last-child{
@@ -348,12 +356,11 @@ nav {
 
   img{
     height: 80px;
-    padding: @goldenNumber/2 ;
   }
   .reference-title{
     background-color: @blueTransparent;
     height: @goldenNumber*2;
-    margin: 0 @goldenNumber/2 @goldenNumber/2 @goldenNumber/2;
+    margin: 0 @goldenNumber/2 ;
     display: flex;
     justify-content: center;
     align-items: center;
