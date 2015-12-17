@@ -341,11 +341,11 @@ nav {
     justify-content: space-around;
     table-layout: fixed;
     padding: 0 @goldenNumber/4;
-  tr{
-    width: 100%;
-  }
+    tr{
+      width: 100%;
+    }
     img{
-    //border-bottom: 2px solid @blueTransparent;
+      //border-bottom: 2px solid @blueTransparent;
 
       padding:   @goldenNumber/2 @goldenNumber/4  0  @goldenNumber/4 ;
     }
@@ -497,5 +497,32 @@ nav {
   display: inline;
 }
 
+
+
+@media only screen and (max-width: 959px) {
+  .project-image{
+    display: none;
+  }
+  .home-header {
+    position: static;
+    background-color: @blue;
+  }
+  #header-container{
+    height: auto;
+
+  }
+  #header{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    h2{
+      order: 1;
+    }
+  }
+  nav{
+    display: none;
+  }
+
+}
 
 
