@@ -9,9 +9,7 @@ $( window ).load(function() {
     $('.project-image img').each(function(){
        $(this).css("display","block");
     });
-    $('.project-image div').each(function(){
-        $(this).css("height","300px");
-    });
+
     $('.project-image').slick({
         lazyLoad: 'ondemand',
         slidesToShow: 1,
@@ -34,8 +32,11 @@ window.onresize = function() {
 
 function resizeImg(){
     var images = $('.image-gallery img');
-    var width = (window.innerWidth*0.8/3-39);
-
+    var width = 0;
+    if ((window.innerWidth*0.6)>960)
+        width = 960/3-39;
+    else
+        width = window.innerWidth*0.6/3-39;
     images.each(function(){
         var ratio = $(this).width()/$(this).height();
         if(ratio > maxRatio)
@@ -54,5 +55,10 @@ function resizeImg(){
 
     $('.image-drawer').each(function(){
         $(this).html("<div>"+imagesLabel.splice(0,1)[0]+"</div>") ;
+    });
+
+    $('.reference-gallery img').each(function(){
+        $(this).width(width/2-20);
+        $(this).height(width/2-20);
     });
 }

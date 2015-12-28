@@ -2,8 +2,8 @@
 
 <div id="prestation">
     <div>
-        <div>
-            <div class="prestation-title">
+        <div class="prestation-title">
+            <div >
                 {{ .Title}}
             </div>
             <div>
@@ -12,8 +12,8 @@
         </div>
         <img src="/img/icons/arrow-right.png"/>
     </div>
-    <div>
-        <iframe  src="{{.Params.video}}" frameborder="0" allowfullscreen></iframe>
+    <div class="video-container">
+        <iframe class="video" src="{{.Params.video}}" frameborder="0" allowfullscreen></iframe>
     </div>
     <div>
         {{.Content}}

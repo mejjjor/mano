@@ -5,8 +5,8 @@
     {{ range .Data.Pages }}
     <div>
         <a href="{{.Title}}">
-            <div>
-                <div class="prestation-title">
+            <div class="prestation-title">
+                <div >
                     {{ .Title}}
                 </div>
                 <div>
@@ -16,6 +16,7 @@
             <img src="{{.Params.thumbnail}}">
         </a >
     </div>
+
     {{ end }}
 </div>
 {{ partial "footer.html" . }}
