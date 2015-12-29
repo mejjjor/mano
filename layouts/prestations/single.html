@@ -18,7 +18,7 @@
     <div>
         {{.Content}}
     </div>
-    <div>
+    <div id="desktop-gallery">
         <table class="table-images">
             {{ $count := len .Params.images }}
             {{ range $index, $elem := .Params.images}}
@@ -41,6 +41,15 @@
             {{ end }}
             {{end}}
         </table>
+    </div>
+    <div id="mobile-gallery">
+        {{range .Params.images}}
+        <div>
+        <a  href="/{{.}}" data-lightbox="gallery" data-title="">
+                <img  src="/{{.}}" />
+            </a>
+        </div>
+        {{end}}
     </div>
 </div>
 
