@@ -1,6 +1,6 @@
 var $ = require('../../node_modules/jquery/dist/jquery.min.js');
 window.$ = window.jQuery = $;
-var slick = require('./slick.js');
+var slick = require('./slick.js'); 
 
 var maxRatio = 0;
 var imagesLabel = [];
