@@ -50,7 +50,7 @@ function resizeImg(){
 
     images.each(function(){
         $(this).height(width/maxRatio);
-        var str = $(this)[0].currentSrc.match(/[-_\w]+[.][\w]+$/)[0].match(/[-_\w]+\./)[0];
+        var str = $(this)[0].src.match(/[-_\w]+[.][\w]+$/)[0].match(/[-_\w]+\./)[0];
         imagesLabel.push(str.split("_").join(" ").slice(0, -1));
     });
 
