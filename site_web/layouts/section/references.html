@@ -2,9 +2,9 @@
 
 <div id="references">
     <div>
-        <div class="reference-title">TÉLÉVISION</div>
+        <div class="reference-title">TOURNAGE</div>
         <div class="reference-gallery">
-            {{ range where .Data.Pages  "Params.categorie" "societe"}}
+            {{ range where .Data.Pages  "Params.categorie" "tournage"}}
                     <img  src="/{{.Params.image}}" />
             {{end}}
         </div>
@@ -12,12 +12,21 @@
     <div>
         <div>
             <div class="reference-title">ÉVENEMENTIEL</div>
+            <div class="reference-gallery">
+            {{ range where .Data.Pages  "Params.categorie" "evenementiel"}}
+                    <img  src="/{{.Params.image}}" />
+            {{end}}
         </div>
         <div></div>
     </div>
+    </div>
     <div>
         <div class="reference-title">SOCIÉTÉS</div>
-
+    <div class="reference-gallery">
+            {{ range where .Data.Pages  "Params.categorie" "societe"}}
+                    <img  src="/{{.Params.image}}" />
+            {{end}}
+    </div>
     </div>
 </div>
 
