@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/photos/all/</loc>
+    <lastmod>2015-10-13T13:40:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/contact/contact/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/merci/merci/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/agenda/Vaslo/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Renault/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/agenda/TRUC/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Disney/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/agenda/Vaslo2/</loc>
+    <lastmod>2015-10-13T13:40:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Disney2/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/prestations/presta2/</loc>
+    <lastmod>2015-10-13T13:39:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/prestations/JONGLAGE/</loc>
+    <lastmod>2015-10-13T13:39:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Renault2/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Vannes/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/references/Vannes2/</loc>
+    <lastmod>2015-10-13T13:40:29+02:00</lastmod>
+  </url>
+  
+</urlset>
