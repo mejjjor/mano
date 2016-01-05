@@ -23,6 +23,8 @@
 
 body{
   font-family: 'SourceCode', sans-serif;
+  -webkit-font-smoothing: antialiased;
+
 }
 html, body{
   height: 100%;
@@ -178,7 +180,7 @@ nav {
   color: #fff;
   img{
     height: 150px;
-    width: 150px;
+    max-width: 150px;
     margin: @goldenNumber/3 @goldenNumber @goldenNumber/3 @goldenNumber/3;
   }
   div{
@@ -448,6 +450,7 @@ nav {
   justify-content: space-between;
   form{
     width: 100%;
+    max-width: 600px;
     tr:first-of-type{
       td{
         border-top: transparent;
@@ -733,6 +736,4 @@ nav {
   }
 }
 
-
-
-
+@media only screen and (-webkit-min-device-pixel-ratio: 1.25), only screen and ( min-device-pixel-ratio: 1.25), only screen and ( min-resolution: 200dpi), only screen and ( min-resolution: 1.25dppx) {     -webkit-font-smoothing: subpixel-antialiased; } 
