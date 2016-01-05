@@ -1,18 +1,18 @@
 +++
 date = "2015-10-13T13:39:32+02:00"
 title = "JONGLAGE"
-description="Déambulations créatives originales"
+description="DÉAMBULATIONS CRÉATIVES ORIGINALES"
 thumbnail="/img/prestations/baniere_1.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
-images=["img/prestations/jonglage_2.jpg","img/prestations/UNE_BELLE_EPEE.jpg","img/prestations/jonglage_4.jpg","img/prestations/jonglage_4.jpg","img/prestations/jonglage_5.jpg","img/prestations/jonglage_5.jpg"]
+images=["img/prestations/JONGLEUR_BALLES.jpg","img/prestations/BALLE_CRISTAL.jpg","img/prestations/JONGLAGE_MASSUES.jpg","img/prestations/ARTISTE_BALLE_CRISTAL.jpg","img/prestations/JONGLAGE_BALLES.jpg","img/prestations/PERFORMER_MASSUES.jpg"]
 weight=30
 +++
 
-Jongleur aguerri, je mets mon savoir-faire technique au service du spectacle. Que ce soit avec mes balles
-russes, mes massues ou ma balle cristal, j'emmène les spectateurs dans des univers poétiques dépaysants.
-Mon objectif : faire rêver avec des jeux d'adresse aériens et des déplacements dansés chorégraphiés.
-En route pour des aventures imaginaires pleines de légèretés !
+JONGLEUR AGUERRI, JE METS MON SAVOIR-FAIRE TECHNIQUE AU SERVICE DU SPECTACLE. QUE CE SOIT AVEC MES BALLES
+RUSSES, MES MASSUES OU MA BALLE CRISTAL, J'EMMÈNE LES SPECTATEURS DANS DES UNIVERS POÉTIQUES DÉPAYSANTS.
+MON OBJECTIF : FAIRE RÊVER AVEC DES JEUX D'ADRESSE AÉRIENS ET DES DÉPLACEMENTS DANSÉS CHORÉGRAPHIÉS.
+EN ROUTE POUR DES AVENTURES IMAGINAIRES PLEINES DE LÉGÈRETÉS !
 
-Je peux réaliser plusieurs passages lors d'une même prestation, seul ou avec plusieurs jongleurs. Que vous
-soyez un festival, une entreprise, ou encore une fête de quartier, je m'adapte à vos besoins pour rendre
-votre événement inoubliable.
+JE PEUX RÉALISER PLUSIEURS PASSAGES LORS D'UNE MÊME PRESTATION, SEUL OU AVEC PLUSIEURS JONGLEURS. QUE VOUS
+SOYEZ UN FESTIVAL, UNE ENTREPRISE, OU ENCORE UNE FÊTE DE QUARTIER, JE M'ADAPTE À VOS BESOINS POUR RENDRE
+VOTRE ÉVÉNEMENT INOUBLIABLE.
