@@ -2,7 +2,7 @@
 date = "2015-10-13T13:39:32+02:00"
 title = "VASLO"
 description="NUMÉRO BURLESQUE AUX MASSUES DE 7 MINUTES"
-thumbnail="/img/prestations/baniere_1.jpg"
+thumbnail="/img/prestations/PRESTA-VASLO.jpg"
 video="https://www.youtube.com/embed/sUPYHB6pTFQ"
 images=["img/prestations/JONGLERIE_MASSUES.jpg","img/prestations/JONGLEUR.jpg","img/prestations/ARTISTE_DE_CIRQUE.jpg","img/prestations/PERFORMER_AVEC_MASSUES.jpg","img/prestations/JONGLEUR_PARIS.jpg","img/prestations/SPECTACLE_JONGLAGE.jpg"]
 weight=60

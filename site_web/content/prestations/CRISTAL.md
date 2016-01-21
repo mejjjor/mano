@@ -2,7 +2,7 @@
 date = "2015-10-13T13:39:32+02:00"
 title = "CRISTAL"
 description="NUMÉRO POÉTIQUE DE 6 MINUTES"
-thumbnail="/img/prestations/baniere_1.jpg"
+thumbnail="/img/prestations/PRESTA-CRISTAL.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
 images=["img/prestations/ARTISTE_PARIS.jpg","img/prestations/BALLE_CRISTAL.jpg","img/prestations/PERFORMANCE_ARTISTIQUE.jpg","img/prestations/JONGLEUR_CRISTAL.jpg","img/prestations/JONGLAGE.jpg","img/prestations/ARTISTE_BALLE_CRISTAL.jpg"]
 weight=50

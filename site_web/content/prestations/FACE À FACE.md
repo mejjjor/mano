@@ -2,7 +2,7 @@
 date = "2015-10-13T13:39:32+02:00"
 title = "FACE À FACE"
 description="NUMÉRO DE CIRQUE ET DE DANSE INTENSE"
-thumbnail="/img/prestations/baniere_1.jpg"
+thumbnail="/img/prestations/PRESTA-FACE A FACE.jpg"
 video="https://www.youtube.com/embed/BLLnhcJ3zgE"
 images=["img/prestations/CONTORSION.jpg","img/prestations/PERFORMANCE.jpg","img/prestations/DUO_CIRQUE.jpg","img/prestations/DANSE_ET_CIRQUE.jpg","img/prestations/ACCROBATIE_À_DEUX.jpg","img/prestations/DUO_DE_PARIS.jpg"]
 weight=80

@@ -2,7 +2,7 @@
 date = "2015-10-13T13:39:32+02:00"
 title = "CLAIR OBSCUR"
 description="SPECTACLE DE CIRQUE ET DE THÉÂTRE GESTUEL DÈS 8 ANS"
-thumbnail="/img/prestations/baniere_1.jpg"
+thumbnail="/img/prestations/PRESTA-CLAIR OBSCUR.jpg"
 video="https://www.youtube.com/embed/ikj7wEjqivc"
 images=["img/prestations/ACCROBATIE_SENSIBLE.jpg","img/prestations/ARTISTES_DE_CIRQUE.jpg","img/prestations/JONGLAGE_À_DEUX.jpg","img/prestations/DUO_SENSIBLE.jpg","img/prestations/JONGLAGE_PHYSIQUE.jpg","img/prestations/CONTORSION_EN_DUO.jpg"]
 weight=70
