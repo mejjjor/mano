@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        {{ .Site.Title }} -- {{ if isset .Params "titlepage" }} {{ .Params.titlepage }} {{else}} {{.Title}} {{ end }}
+        {{ .Site.Title }} -- {{ if isset .Params "titlepage" }} {{ .Params.titlepage }} {{else}} {{ if ne .URL "/" }}{{.Title}} {{ end }} {{ end }}
     </title>
     <meta name="description" content="{{.Site.Params.description}}"/>
     <meta name="generator" content="{{.Site.Params.generator}}" />
