@@ -12,9 +12,16 @@
         </div>
         <img src="/img/icons/arrow-right.png"/>
     </div>
+    {{with .Params.video}}
     <div class="video-container">
-        <iframe class="video" src="{{.Params.video}}" frameborder="0" allowfullscreen></iframe>
+        <iframe class="video" src="{{.}}" frameborder="0" allowfullscreen></iframe>
     </div>
+    {{end}}
+    {{with .Params.image}}
+    <div class="img-container">
+        <img  src="/{{.}}"/>
+    </div>
+    {{end}}
     <div>
         {{.Content}}
     </div>
@@ -30,7 +37,7 @@
                     <div class="image-gallery">
                         <div class="image-container">
                             <a  href="/{{.}}" data-lightbox="gallery" data-title="">
-                                <img  src="/{{.}}" />
+                                <img  src="/{{.}}" alt="{{.}}"/>
                                 <div class="image-drawer"><div></div></div>
                             </a>
                         </div>
