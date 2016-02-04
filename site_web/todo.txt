@@ -1,16 +1,4 @@
-faisable mais chiant :
-    une prestation :
-    - pas de réarangement en 2 puis 1 colonne mais 1 colonne direct
-        -> problème du label avec les photos en portrait : photo trop petite => 2 colonnes ou contentWidth à 70%
-
-- mep du site
-- graphique
 - rediriger ancien site vers nouveau
 
-home:
--texte acceuil modifiable
-
-
-modifier la doc pour publish.bat
 
 faire refernecement
