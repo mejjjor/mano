@@ -4,7 +4,7 @@ title = "SCULPTURE DE BALLONS"
 description="DISTRIBUTIONS FESTIVES POUR PETITS ET GRANDS ENFANTS"
 thumbnail="/img/prestations/PRESTA-BALLONS.jpg"
 image="img/prestations/BALLON_POISSON.jpg"
-images=["img/prestations/SCULPTURE_DE_BALLONS_PISTOLETS.jpg","img/prestations/PETIT_ANIMAL.jpg","img/prestations/BALLON_POISSON.jpg","img/prestations/SCULPTURE_CIRQUE.jpg","img/prestations/SABRES.jpg","img/prestations/BALLOONEUR.jpg"]
+images=["img/prestations/SCULPTURE_DE_BALLONS_PISTOLETS.jpg","img/prestations/PETIT_ANIMAL.jpg","img/prestations/SCULPTURES_EN_FOLIE.jpg","img/prestations/SCULPTURE_CIRQUE.jpg","img/prestations/SABRES.jpg","img/prestations/BALLOONEUR.jpg"]
 weight=40
 +++
 
