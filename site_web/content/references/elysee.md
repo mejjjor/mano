@@ -1,8 +1,8 @@
 +++
 date = "2015-10-13T13:40:29+02:00"
-title = "Vannes2"
+title = "elysee"
 categorie="evenementiel"
-image = "img/references/msn.jpg"
-weight= 80
+image = "img/references/elysee.png"
+weight= 1
 +++
 
