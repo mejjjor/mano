@@ -1,8 +1,8 @@
 +++
 date = "2015-10-13T13:40:29+02:00"
-title = "Solvay"
+title = "diane"
 categorie="evenementiel"
-image = "img/references/Solvay.jpg"
-weight= 50
+image = "img/references/diane.png"
+weight= 90
 +++
 
