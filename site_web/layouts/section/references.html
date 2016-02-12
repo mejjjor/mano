@@ -21,9 +21,9 @@
     </div>
     </div>
     <div>
-        <div class="reference-title">SOCIÉTÉS</div>
+        <div class="reference-title">LIEU</div>
     <div class="reference-gallery">
-            {{ range where .Data.Pages  "Params.categorie" "societe"}}
+            {{ range where .Data.Pages  "Params.categorie" "lieu"}}
                     <img  src="/{{.Params.image}}" />
             {{end}}
     </div>
