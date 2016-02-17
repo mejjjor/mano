@@ -1,11 +1,11 @@
 {{if eq .URL "/"}}
-    <div class="project-image">
-        {{ range .Site.Params.images }}
-        <div>
-            <img class="project" src="/{{.}}" />
-        </div>
-        {{end}}
+<div class="project-image">
+    {{ range .Site.Params.images }}
+    <div>
+        <img class="project" src="/{{.}}" />
     </div>
+    {{end}}
+</div>
 {{end}}
 <a href="/">
     <div id="header-container" class='{{if eq .URL "/"}}home-{{end}}header '>
@@ -15,10 +15,19 @@
             <h2>PERFORMER</h2>
         </div>
         <div id="header-mobile">
-            <h1 id="title-name-mobile">MANOËL MATHIS</h1>
-            <h2><span>ARTISTE</span><span>PERFORMER</span></h2>
+            <div>
+                <div>
+                    <h1 id="title-name-mobile">MANOËL MATHIS</h1>
+                </div>
+                <div>
+                    <div>
+                        <h2>ARTISTE</h2></div>
+                    <div>
+                        <h2>PERFORMER</h2></div>
+                </div>
+            </div>
             <label for="icon-menu" id="menu-click">
-             <img src="/img/icons/menu.png">
+                <img src="/img/icons/menu.png">
             </label>
         </div>
     </div>
@@ -26,8 +35,7 @@
 <input type="checkbox" id="icon-menu">
 <nav>
     <ul>
-        {{ $currentURL := .URL }}
-        {{range .Site.Menus.main}}
+        {{ $currentURL := .URL }} {{range .Site.Menus.main}}
         <li class="{{if eq $currentURL .URL}}nav-active{{end}}">
             <a href="{{.URL}}">
                 <h4>{{.Name}}</h4>
@@ -36,4 +44,3 @@
         {{end}}
     </ul>
 </nav>
-

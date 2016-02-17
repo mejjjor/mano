@@ -76,11 +76,11 @@ function resizeImg(){
         });
 
 
-        $('#name').prop("placeholder","NOM");
-        $('#email').prop("placeholder","EMAIL");
-        $('#telephone').prop("placeholder","TÉLÉPHONE");
-        $('#societe').prop("placeholder","SOCIÉTÉ");
-        $('#message').prop("placeholder","MESSAGE");
+        // $('#name').prop("placeholder","NOM");
+        // $('#email').prop("placeholder","EMAIL");
+        // $('#telephone').prop("placeholder","TÉLÉPHONE");
+        // $('#societe').prop("placeholder","SOCIÉTÉ");
+        // $('#message').prop("placeholder","MESSAGE");
     }
 }
 

@@ -1,25 +1,23 @@
 {{ partial "header.html" . }}
-
 <div id="prestation">
     <div>
         <div class="prestation-title">
-            <div >
+            <div>
                 {{ .Title}}
             </div>
             <div>
                 {{.Description}}
             </div>
         </div>
-        <img src="/img/icons/arrow-right.png"/>
+        <div><a href="{{if .PrevInSection}}{{.PrevInSection.Permalink}}{{else}}{{.Site.BaseURL}}/prestations/JONGLAGE{{end}}" class="button-hack" style="padding: 0;">&#8594;</a></div>
     </div>
     {{with .Params.video}}
     <div class="video-container">
         <iframe class="video" src="{{.}}" frameborder="0" allowfullscreen></iframe>
     </div>
-    {{end}}
-    {{with .Params.image}}
+    {{end}} {{with .Params.image}}
     <div class="img-container">
-        <img  src="/{{.}}"/>
+        <img src="/{{.}}" />
     </div>
     {{end}}
     <div>
@@ -27,38 +25,35 @@
     </div>
     <div id="desktop-gallery">
         <table class="table-images">
-            {{ $count := len .Params.images }}
-            {{ range $index, $elem := .Params.images}}
-            {{ $c :=add $index 1 }}
-            {{ if eq ( mod $c 3  ) 1 }}
+            {{ $count := len .Params.images }} {{ range $index, $elem := .Params.images}} {{ $c :=add $index 1 }} {{ if eq ( mod $c 3 ) 1 }}
             <tr>
                 {{ end }}
                 <td>
                     <div class="image-gallery">
                         <div class="image-container">
-                            <a  href="/{{.}}" data-lightbox="gallery" data-title="">
-                                <img  src="/{{.}}" alt="{{.}}"/>
-                                <div class="image-drawer"><div></div></div>
+                            <a href="/{{.}}" data-lightbox="gallery" data-title="">
+                                <img src="/{{.}}" alt="{{.}}" />
+                                <div class="image-drawer">
+                                    <div></div>
+                                </div>
                             </a>
                         </div>
                     </div>
                 </td>
-                {{ if or (eq ( mod $c 3  ) 0) (eq $count $index) }}
+                {{ if or (eq ( mod $c 3 ) 0) (eq $count $index) }}
             </tr>
-            {{ end }}
-            {{end}}
+            {{ end }} {{end}}
         </table>
     </div>
     <div id="mobile-gallery">
         {{range .Params.images}}
         <div>
-        <a  href="/{{.}}" data-lightbox="gallery" data-title="">
-                <img  src="/{{.}}" />
+            <a href="/{{.}}" data-lightbox="gallery" data-title="">
+                <img src="/{{.}}" />
             </a>
         </div>
         {{end}}
     </div>
 </div>
-
 <script src="/js/lightbox.js"></script>
 {{ partial "footer.html" . }}

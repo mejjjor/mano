@@ -210,6 +210,7 @@ nav {
             letter-spacing: 4px;
             color: #fff;
             font-size: 14px;
+            padding-bottom: 15px;
         }
         background-color: @blueTransparent;
         padding: 15px;
@@ -256,8 +257,14 @@ nav {
         justify-content: space-between;
         max-height: 2*@goldenNumber;
         color: @blue;
-        img {
-            height: 2*@goldenNumber;
+        .button-hack {
+            font-size: 20px;
+            font-family: slick;
+            opacity: 0.7;
+            color: #fff;
+            position: relative;
+            right: 0;
+            padding: 0;
         }
         > div {
             padding: 15px;
@@ -343,8 +350,10 @@ nav {
         background-color: @blue;
         width: 250px;
         margin: 0 0 @goldenNumber/2 @goldenNumber/2;
-        padding: @goldenNumber/3;
+        padding: @goldenNumber/2;
         color: #fff;
+        display: flex;
+        justify-content: center;
     }
     >div:nth-of-type(2) {
         padding: 0 @goldenNumber/2;
@@ -391,11 +400,12 @@ nav {
     }
     img {
         height: 80px;
+        max-height: 80px;
         margin-top: @goldenNumber/2;
     }
     .reference-title {
         background-color: @blueTransparent;
-        height: @goldenNumber*2;
+        padding: @goldenNumber/2 0;
         margin: 0 @goldenNumber/2;
         display: flex;
         justify-content: center;
@@ -529,9 +539,8 @@ nav {
     margin: auto;
     padding: @goldenNumber/3;
     color: #fff;
-    div{
-        
-    text-align: center;
+    div {
+        text-align: center;
     }
 }
 
@@ -581,8 +590,14 @@ nav {
         display: none;
     }
     #header-mobile {
-        display: inline-block;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
         margin-left: 5px;
+        >div>div:nth-of-type(2) {
+            display: flex;
+            justify-content: space-between;
+        }
         h1 {
             display: inline;
             font-size: 33px;
@@ -590,8 +605,6 @@ nav {
         }
         h2 {
             font-size: 15px;
-            display: flex;
-            justify-content: space-between;
             max-width: 270px;
         }
         img {
@@ -640,6 +653,7 @@ nav {
     #home {
         display: flex;
         flex-wrap: wrap;
+        justify-content: space-around;
         width: 90%;
         margin-top: @goldenNumber/2;
         div {
