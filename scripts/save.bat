@@ -7,6 +7,7 @@ git push -u origin
 cd site_web
 hugo
 cd public
+git pull
 git add . --all
 git commit -m "automatic publish"
 echo "Publication du site"
