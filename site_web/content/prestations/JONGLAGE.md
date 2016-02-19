@@ -1,7 +1,7 @@
 +++
 date = "2015-10-13T13:39:32+02:00"
 title = "JONGLAGE"
-titlepage = "Mon titre de page"
+titlepage = "Jonglage professionnel"
 description="DÉAMBULATIONS CRÉATIVES ORIGINALES"
 thumbnail="/img/prestations/baniere_1.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
