@@ -28,6 +28,10 @@ $( window ).load(function() {
 
 window.onresize = function() {
     resizeImg();
+    if (window.innerWidth<959)
+        setPlaceholder();
+    else
+        removePlaceholder();
 };
 
 
@@ -74,14 +78,23 @@ function resizeImg(){
             $(this).width(width);
             $(this).height(width);
         });
-
-
-        // $('#name').prop("placeholder","NOM");
-        // $('#email').prop("placeholder","EMAIL");
-        // $('#telephone').prop("placeholder","TÉLÉPHONE");
-        // $('#societe').prop("placeholder","SOCIÉTÉ");
-        // $('#message').prop("placeholder","MESSAGE");
     }
+}
+
+function setPlaceholder(){
+        $('#name').prop("placeholder","NOM");
+        $('#email').prop("placeholder","EMAIL");
+        $('#telephone').prop("placeholder","TÉLÉPHONE");
+        $('#societe').prop("placeholder","SOCIÉTÉ");
+        $('#message').prop("placeholder","MESSAGE");
+}
+
+function removePlaceholder(){
+        $('#name').prop("placeholder","");
+        $('#email').prop("placeholder","");
+        $('#telephone').prop("placeholder","");
+        $('#societe').prop("placeholder","");
+        $('#message').prop("placeholder","");
 }
 
 window.mobilecheck = function() {

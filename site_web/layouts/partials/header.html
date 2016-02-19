@@ -17,6 +17,6 @@
 
 <body>
     <div id="page-container">
-        <div id="nav">
+        <div id="nav" class='{{if ne .URL "/"}}nav-fixed{{end}} '>
             {{ partial "nav.html" . }}
         </div>

@@ -2,7 +2,7 @@
 
 <div id="references">
     <div>
-        <div class="reference-title">TOURNAGE</div>
+        <div class="reference-title">TOURNAGES</div>
         <div class="reference-gallery">
             {{ range where .Data.Pages  "Params.categorie" "tournage"}}
                     <img  src="/{{.Params.image}}" />
@@ -21,7 +21,7 @@
     </div>
     </div>
     <div>
-        <div class="reference-title">LIEU</div>
+        <div class="reference-title">LIEUX</div>
     <div class="reference-gallery">
             {{ range where .Data.Pages  "Params.categorie" "lieu"}}
                     <img  src="/{{.Params.image}}" />

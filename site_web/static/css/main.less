@@ -138,8 +138,8 @@ nav {
     justify-content: center;
     width: 100%;
     height: @goldenNumber;
-    margin-bottom: @goldenNumber;
     background-color: #fff;
+    margin-bottom: @goldenNumber;
     ul {
         display: flex;
         justify-content: space-between;
@@ -166,6 +166,18 @@ nav {
         a {
             color: @red;
         }
+    }
+}
+
+.nav-fixed {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+    nav {
+        z-index: 100;
+        position: fixed;
+        width: 100%;
     }
 }
 
@@ -210,7 +222,7 @@ nav {
             letter-spacing: 4px;
             color: #fff;
             font-size: 14px;
-            padding-bottom: 15px;
+            padding-bottom: 8px;
         }
         background-color: @blueTransparent;
         padding: 15px;
@@ -242,6 +254,10 @@ nav {
         padding-top: @goldenNumber/2;
         margin-bottom: @goldenNumber/2;
     }
+    >div:nth-of-type(1) {
+        padding-top: 0;
+    }
+    padding-top: @goldenNumber*3;
 }
 
 #prestation {
@@ -274,7 +290,7 @@ nav {
             :nth-child(1) {
                 letter-spacing: 4px;
                 color: #fff;
-                padding-bottom: 15px;
+                padding-bottom: 8px;
             }
         }
     }
@@ -311,6 +327,7 @@ nav {
             vertical-align: bottom;
         }
     }
+    padding-top: @goldenNumber*3;
 }
 
 #mobile-gallery {
@@ -334,6 +351,7 @@ nav {
     img {
         vertical-align: bottom;
     }
+    padding-top: @goldenNumber*3;
 }
 
 #agenda {
@@ -375,6 +393,7 @@ nav {
             color: @blue;
         }
     }
+    padding-top: @goldenNumber*3;
 }
 
 #references {
@@ -399,8 +418,9 @@ nav {
         border-right: transparent;
     }
     img {
-        height: 80px;
+        //height: 80px;
         max-height: 80px;
+        max-width: 80px;
         margin-top: @goldenNumber/2;
     }
     .reference-title {
@@ -412,6 +432,7 @@ nav {
         align-items: center;
         color: #fff;
     }
+    padding-top: @goldenNumber*3;
 }
 
 .table-images {
@@ -531,6 +552,7 @@ nav {
             background-color: @blueBis;
         }
     }
+    padding-top: @goldenNumber*3;
 }
 
 #merci {
@@ -666,6 +688,7 @@ nav {
     #prestations {
         width: 90%;
         font-size: 12px;
+        padding-top: @goldenNumber*2;
     }
     #prestation {
         width: 90%;
@@ -676,9 +699,11 @@ nav {
         >div:first-child img {
             display: none;
         }
+        padding-top: @goldenNumber*2;
     }
     #photos {
         width: 90%;
+        padding-top: @goldenNumber*2-@goldenNumber/2;
     }
     #desktop-gallery {
         display: none;
@@ -708,6 +733,7 @@ nav {
         >div:nth-of-type(2) {
             padding: 0;
         }
+        padding-top: @goldenNumber*2-@goldenNumber/2;
     }
     #references {
         width: 90%;
@@ -723,10 +749,9 @@ nav {
             width: auto;
             max-width: 270px;
             margin: auto;
-            //
             display: inline;
-            //
         }
+        padding-top: @goldenNumber*2-@goldenNumber/2;
     }
     #contact {
         width: 90%;
@@ -748,6 +773,7 @@ nav {
         form tr td:last-of-type {
             padding: @goldenNumber/2;
         }
+        padding-top: @goldenNumber;
     }
 }
 
