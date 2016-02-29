@@ -7,7 +7,7 @@ disableRSS=true
 metaDataFormat = "toml"
 
 [params]
-    description = "Artiste performer préstation"
+    description = "Artiste performer prestation"
     generator="Hugo 0.14"
     author = "Manoel Mathis"
     subdomain = ""
