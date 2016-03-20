@@ -4,6 +4,6 @@ TITLE = "CLAIR-OBSCUR"
 DATES = "JEUDI 14 JANVIER"
 LIEU = "MOIRAX"
 LINK= "http://www.ladepeche.fr/article/2016/01/22/2261120-spectacle-clair-obscur-l-emotion-en-cadeau.html"
-WEIGHT=20
+WEIGHT=200
 +++
 

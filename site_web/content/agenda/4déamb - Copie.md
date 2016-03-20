@@ -4,6 +4,6 @@ TITLE = "DÉAMBULATION JONGLAGE POUR LA GOLDEN LEAGUE"
 DATES = "JEUDI 7 JANVIER"
 LIEU = "ROUEN"
 LINK= "http://www.experts-handball.com/calendrier/golden-league-2015-2016.html"
-WEIGHT=40
+WEIGHT=400
 +++
 

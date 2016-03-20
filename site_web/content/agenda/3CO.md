@@ -4,6 +4,6 @@ TITLE = "CLAIR OBSCUR"
 DATES = "MERCREDI 13 JANVIER"
 LIEU = "LAVIT"
 LINK= "http://annuaire.action-sociale.org/?p=foyer-du-barradis-820000123&details=caracteristiques"
-WEIGHT=30
+WEIGHT=300
 +++
 
