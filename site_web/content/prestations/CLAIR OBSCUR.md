@@ -4,7 +4,7 @@ title = "CLAIR OBSCUR"
 description="SPECTACLE DE CIRQUE ET DE THÉÂTRE GESTUEL DÈS 8 ANS"
 thumbnail="/img/prestations/PRESTA-CLAIR OBSCUR.jpg"
 video="https://www.youtube.com/embed/l1SBz6Tzom8"
-images=["img/prestations/ACCROBATIE_SENSIBLE.jpg","img/prestations/ARTISTES_DE_CIRQUE.jpg","img/prestations/JONGLAGE_À_DEUX.jpg","img/prestations/DUO_SENSIBLE.jpg","img/prestations/JONGLAGE_PHYSIQUE.jpg","img/prestations/CONTORSION_EN_DUO.jpg"]
+images=["img/prestations/ACCROBATIE_SENSIBLE.jpg","img/prestations/ARTISTES_DE_CIRQUE.jpg","img/prestations/JONGLEURS_DUO.jpg","img/prestations/DUO_SENSIBLE.jpg","img/prestations/JONGLAGE_PHYSIQUE.jpg","img/prestations/CONTORSION_EN_DUO.jpg"]
 weight=70
 +++
 
