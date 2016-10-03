@@ -5,7 +5,7 @@ description="NUMÉRO BURLESQUE DE JONGLAGE"
 thumbnail="/img/prestations/PRESTA-VASLO.jpg"
 video="https://www.youtube.com/embed/sUPYHB6pTFQ"
 images=["img/prestations/JONGLERIE_MASSUES.jpg","img/prestations/JONGLEUR.jpg","img/prestations/ARTISTE_DE_CIRQUE.jpg","img/prestations/PERFORMER_AVEC_MASSUES.jpg","img/prestations/JONGLEUR_PARIS.jpg","img/prestations/SPECTACLE_JONGLAGE.jpg"]
-weight=60
+weight=70
 +++
 
 ATTACHEZ VOS CEINTURES, VOUS ALLEZ DÉCOLLER !
