@@ -3,7 +3,7 @@ date = "2015-10-13T13:39:32+02:00"
 title = "SCULPTURE DE BALLONS"
 description="DISTRIBUTIONS FESTIVES POUR PETITS ET GRANDS ENFANTS"
 thumbnail="/img/prestations/PRESTA-BALLONS.jpg"
-image="img/prestations/SPECTACLE_JONGLAGE.jpg"
+image="img/prestations/Sanstitre.jpg"
 images=["img/prestations/SCULPTURE_DE_BALLONS_PISTOLETS.jpg","img/prestations/PETIT_ANIMAL.jpg","img/prestations/SCULPTURES_EN_FOLIE.jpg","img/prestations/SCULPTURE_CIRQUE.jpg","img/prestations/SABRES.jpg","img/prestations/BALLOONEUR.jpg"]
 weight=40
 +++
