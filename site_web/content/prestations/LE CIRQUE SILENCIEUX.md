@@ -4,7 +4,7 @@ TITLE = "LE CIRQUE SILENCIEUX"
 DESCRIPTION="SPECTACLE DE THÉÂTRE ET DE CIRQUE JEUNE PUBLIC DÈS 3 ANS"
 THUMBNAIL="/img/prestations/PRESTA-CIRQUE-SILENCIEUX.jpg"
 VIDEO="https://www.youtube.com/embed/ruy5KgUNuKs"
-IMAGES=["img/prestations/SPECTACLE_ENFANTS.jpg","img/prestations/SPECTACLE_JEUNE_PUBLIC.jpg","img/prestations/SPECTACLE_CIRQUE_SILENCIEUX.jpg","img/prestations/CIRQUE_JEUNE_PUBLIC.jpg","img/prestations/LE_CIRQUE_SILENCIEUX.jpg","img/prestations/THÉATRE_ENFANTS.jpg"]
+IMAGES=["img/prestations/SPECTACLE_ENFANTS.jpg","img/prestations/SPECTACLE_JEUNE_PUBLIC.jpg","img/prestations/SPECTACLE_CIRQUE_SILENCIEUX.jpg","img/prestations/CIRQUE_JEUNE_PUBLIC.jpg","img/prestations/LE_CIRQUE_SILENCIEUX.jpg","img/prestations/THEATRE_ENFANTS.jpg"]
 WEIGHT=50
 +++
 
