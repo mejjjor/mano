@@ -1,7 +1,7 @@
 +++
 date = "2019-01-25T13:39:32+02:00"
 title = "JONGLEUR"
-titlepage = "JONGLEUR PARIS"
+titlepage = "JONGLEUR"
 description="DÉAMBULATIONS CRÉATIVES ORIGINALES"
 thumbnail="/img/prestations/JONGLEUR_PARIS.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
