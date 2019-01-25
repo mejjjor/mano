@@ -1,11 +1,11 @@
 +++
-date = "2015-10-13T13:39:32+02:00"
-title = "JONGLAGE"
-titlepage = "Jonglage professionnel"
+date = "2019-01-25T13:39:32+02:00"
+title = "JONGLEUR"
+titlepage = "JONGLEUR PARIS"
 description="DÉAMBULATIONS CRÉATIVES ORIGINALES"
-thumbnail="/img/prestations/baniere_1.jpg"
+thumbnail="/img/prestations/JONGLEUR_PARIS.jpg"
 video="https://www.youtube.com/embed/GefC4gZNIHo"
-images=["img/prestations/JONGLEUR_BALLES.jpg","img/prestations/BALLE_CRISTAL.jpg","img/prestations/JONGLAGE_MASSUES.jpg","img/prestations/ARTISTE_BALLE_CRISTAL.jpg","img/prestations/JONGLAGE_BALLES.jpg","img/prestations/PERFORMER_MASSUES.jpg"]
+images=["img/prestations/JONGLEUR_BALLES.jpg","img/prestations/JONGLEUR_CRISTAL.jpg","img/prestations/JONGLEUR_DE_MASSUES_PARIS.jpg","img/prestations/ARTISTE_JONGLEUR_BALLE_CRISTAL.jpg","img/prestations/JONGLEUR_DE_BALLES_A_PARIS.jpg","img/prestations/PERFORMER_JONGLEUR_AVEC_MASSUES.jpg"]
 weight=30
 +++
 
@@ -17,3 +17,5 @@ EN ROUTE POUR DES AVENTURES IMAGINAIRES PLEINES DE LÉGÈRETÉS !
 JE PEUX RÉALISER PLUSIEURS PASSAGES LORS D'UNE MÊME PRESTATION, SEUL OU AVEC PLUSIEURS JONGLEURS. QUE VOUS
 SOYEZ UN FESTIVAL, UNE ENTREPRISE, OU ENCORE UNE FÊTE DE QUARTIER, JE M'ADAPTE À VOS BESOINS POUR RENDRE
 VOTRE ÉVÉNEMENT INOUBLIABLE.
+
+SITUÉ À PARIS, EN ILE-DE-FRANCE, JE SUIS MOBILE ET JE PEUX INTERVENIR DANS TOUTE LA FRANCE ET À L'ÉTRANGER.
