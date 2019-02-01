@@ -20,7 +20,7 @@ $( window ).load(function() {
         autoplay: true,
         speed:1000,
         cssEase: 'cubic-bezier(1,.5,.5,.30)',
-        autoplaySpeed: 3000
+        autoplaySpeed: 4000
     });
 
     resizeImg();
@@ -28,6 +28,10 @@ $( window ).load(function() {
 
 window.onresize = function() {
     resizeImg();
+    if (window.innerWidth<959)
+        setPlaceholder();
+    else
+        removePlaceholder();
 };
 
 
@@ -54,8 +58,11 @@ function resizeImg(){
         imagesLabel.push(str.split("_").join(" ").slice(0, -1));
     });
 
-    $('.image-drawer').each(function(){
-        $(this).html("<div>"+imagesLabel.splice(0,1)[0]+"</div>") ;
+    $('.image-drawer').each(function(index){
+        $(this).html("<div>"+imagesLabel[index]+"</div>") ;
+    });
+    $('.image-container img').each(function(){
+        $(this).attr("alt",imagesLabel.splice(0,1)[0]) ;
     });
     if(!mobilecheck())
     $('.reference-gallery img').each(function(){
@@ -71,14 +78,23 @@ function resizeImg(){
             $(this).width(width);
             $(this).height(width);
         });
+    }
+}
 
-
+function setPlaceholder(){
         $('#name').prop("placeholder","NOM");
         $('#email').prop("placeholder","EMAIL");
         $('#telephone').prop("placeholder","TÉLÉPHONE");
         $('#societe').prop("placeholder","SOCIÉTÉ");
         $('#message').prop("placeholder","MESSAGE");
-    }
+}
+
+function removePlaceholder(){
+        $('#name').prop("placeholder","");
+        $('#email').prop("placeholder","");
+        $('#telephone').prop("placeholder","");
+        $('#societe').prop("placeholder","");
+        $('#message').prop("placeholder","");
 }
 
 window.mobilecheck = function() {
