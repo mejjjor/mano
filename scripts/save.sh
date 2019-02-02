@@ -1,4 +1,4 @@
-cd C:\Users\manoe\site_internet\mano\scripts
+cd C:/Users/manoe/site_internet/mano/scripts
 git pull
 git add . --all
 git commit -m "automatic commit"
