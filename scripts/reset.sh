@@ -1,4 +1,4 @@
-cd d:/site_internet/mano/
+cd C:/Users/manoe/site_internet/mano/
 git checkout .
 
 
