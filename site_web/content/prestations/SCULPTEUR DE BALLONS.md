@@ -4,7 +4,7 @@ title = "SCULPTEUR DE BALLONS"
 description="DÉAMBULATIONS FESTIVES EN SCULPTEUR DE BALLONS POUR PETITS ET GRANDS ENFANTS"
 thumbnail="/img/prestations/DEAMBULATION_SCULPTEUR_DE_BALLONS.jpg"
 image="img/prestations/SCULPTEUR_DE_BALLONS.jpg"
-images=["img/prestations/SCULPTURE_DE_BALLONS_PISTOLETS.jpg","img/prestations/SCULPTEUR_BALLON.jpg","img/prestations/SCULPTURES_DE_BALLONS_EN_FOLIE.jpg","img/prestations/ARAIGNEES_CULPTEUR_DE_BALLONS.jpg","img/prestations/ÉPÉES_DE_SCULPTEUR_DE_BALLONS.jpg","img/prestations/SCULPTEUR_DE_BALLONS_EN_PRESTATION.jpg"]
+images=["img/prestations/SCULPTURE_DE_BALLONS_PISTOLETS.jpg","img/prestations/SCULPTEUR_DE_BALLON_POISSON.jpg","img/prestations/SCULPTURES_DE_BALLONS_EN_FOLIE.jpg","img/prestations/ARAIGNEES_CULPTEUR_DE_BALLONS.jpg","img/prestations/EPEES_DE_SCULPTEUR_DE_BALLONS.jpg","img/prestations/SCULPTEUR_DE_BALLONS_EN_PRESTATION.jpg"]
 weight=40
 +++
 
