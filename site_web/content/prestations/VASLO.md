@@ -4,7 +4,7 @@ title = "VASLO"
 description="NUMÉRO BURLESQUE DE JONGLAGE"
 thumbnail="/img/prestations/PRESTA-VASLO.jpg"
 video="https://www.youtube.com/embed/sUPYHB6pTFQ"
-images=["img/prestations/JONGLERIE_MASSUES.jpg","img/prestations/JONGLEUR.jpg","img/prestations/ARTISTE_DE_CIRQUE.jpg","img/prestations/PERFORMER_AVEC_MASSUES.jpg","img/prestations/JONGLEUR_PARIS.jpg","img/prestations/SPECTACLE_JONGLAGE.jpg"]
+images=["img/prestations/JONGLERIE_MASSUES.jpg","img/prestations/JONGLEUR.jpg","img/prestations/ARTISTE_DE_CIRQUE_JONGLEUR.jpg","img/prestations/PERFORMER_JONGLEUR_AVEC_DES_MASSUES.jpg","img/prestations/JONGLEUR_DE_MASSUES_PARIS.jpg","img/prestations/SPECTACLE_JONGLAGE.jpg"]
 weight=70
 +++
 
