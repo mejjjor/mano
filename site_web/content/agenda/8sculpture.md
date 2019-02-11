@@ -1,9 +1,9 @@
 +++
 DATE = "2016-04-07T12:10:49+02:00"
-TITLE = "DÉAMBULATION JONGLAGE"
-DATES = "SAMEDI 26 MARS"
-LIEU = "NOGENT-SUR-MARNE À 14H00,PARC WATTEAU"
-LINK= "http://www.ville-nogentsurmarne.fr/actualites/fiche/la-chasse-aux-oeufs-de-paques-est-ouverte-1.htm"
-WEIGHT=9999997
+TITLE = "INTERVENTION DÉAMBULATOIRE EN JONGLEUR"
+DATES = "SAMEDI 09 FEVRIER 2019"
+LIEU = "SAINT-LEU-LA FORET,ILE-DE-FRANCE"
+LINK= "http://www.saint-leu-la-foret.fr/actualites.htm?type=agenda"
+WEIGHT=9999879
 +++
 
