@@ -1,0 +1,9 @@
++++
+DATE = "2019-03-04T15:36:00+02:00"
+TITLE = "SCULPTURE DE BALLONS POUR CISCO FRANCE"
+DATES = "LE 20 FEVRIER 2019"
+LIEU = "ISSY-LES-MOULINEAUX 97132"
+LINK= "https://www.manoel-artiste.fr/prestations/sculpteur%20de%20ballons/"
+WEIGHT=9999879
++++
+

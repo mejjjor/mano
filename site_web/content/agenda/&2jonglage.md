@@ -1,0 +1,9 @@
++++
+DATE = "2019-03-04T15:51:15+02:00"
+TITLE = "SPECTACLE DE JONGLAGE SUR-MESURE EN ECOLE"
+DATES = "MERCREDI 6 MARS"
+LIEU = "PARIS, 75007"
+LINK= "https://www.manoel-artiste.fr/prestations/jongleur/"
+WEIGHT=9999879
++++
+
