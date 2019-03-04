@@ -213,6 +213,21 @@
   </url>
   
   <url>
+    <loc>http://manoel-artiste.fr/agenda/&amp;2jonglage/</loc>
+    <lastmod>2019-03-04T15:51:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/&amp;1sculpture%20%282%29/</loc>
+    <lastmod>2019-03-04T15:36:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://manoel-artiste.fr/agenda/&amp;1sculpture/</loc>
+    <lastmod>2019-03-04T15:36:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manoel-artiste.fr/agenda/8sculpture/</loc>
     <lastmod>2016-04-07T12:10:49+02:00</lastmod>
   </url>
@@ -813,13 +828,8 @@
   </url>
   
   <url>
-    <loc>http://manoel-artiste.fr/agenda/1CO/</loc>
+    <loc>http://manoel-artiste.fr/agenda/10CO/</loc>
     <lastmod>2016-03-20T18:52:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/2CO/</loc>
-    <lastmod>2016-03-20T18:43:49+02:00</lastmod>
   </url>
   
   <url>
@@ -850,11 +860,6 @@
   <url>
     <loc>http://manoel-artiste.fr/agenda/3DEAMB/</loc>
     <lastmod>2016-03-20T18:40:49+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://manoel-artiste.fr/agenda/1sculpture%20/</loc>
-    <lastmod>2016-03-20T18:48:49+02:00</lastmod>
   </url>
   
 </urlset>
