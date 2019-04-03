@@ -1,11 +1,11 @@
 +++
 date = "2019-04-03T11:09:00+02:00"
-title = "TERRE DE FEU"
+title = "SPECTACLE DE FEU"
 titlepage = "SPECTACLE DE FEU"
-description="UN SPECTACLE DE FEU ET D'ARTIFICES EXPLOSIF"
+description="UN FIRE SHOW EXPLOSIF"
 thumbnail="/img/prestations/SPECTACLE_DE_FEU.jpg"
 video="https://www.youtube.com/embed/WfXKUeXE1_Q"
-images=["img/prestations/SPECTACLE_FEU.jpg","img/prestations/PYROTECHNIE.jpg","img/prestations/FEU_D'ARTIFICE.jpg","img/prestations/JONGLEUR_DE_FEU.jpg","img/prestations/JONGLEUR_DE_FEU_AUX_BOLAS.jpg","img/prestations/JONGLEUR_AVEC_DES_ARTIFICES.jpg"]
+images=["img/prestations/SPECTACLE_FEU.jpg","img/prestations/PYROTECHNIE.jpg","img/prestations/ARTIFICES.jpg","img/prestations/JONGLEUR_DE_FEU.jpg","img/prestations/JONGLEUR_DE_FEU_AUX_BOLAS.jpg","img/prestations/JONGLEUR_AVEC_DES_ARTIFICES.jpg"]
 weight=20
 +++
 
