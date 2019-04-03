@@ -4,7 +4,7 @@ title = "TERRE DE FEU"
 titlepage = "SPECTACLE DE FEU"
 description="UN SPECTACLE DE FEU ET D'ARTIFICES EXPLOSIF"
 thumbnail="/img/prestations/SPECTACLE_DE_FEU.jpg"
-video="https://www.youtube.com/watch?v=WfXKUeXE1_Q&t=22s"
+video="https://www.youtube.com/watch?v=WfXKUeXE1_Q"
 images=["img/prestations/SPECTACLE_FEU.jpg","img/prestations/PYROTECHNIE.jpg","img/prestations/FEU_D'ARTIFICE.jpg","img/prestations/JONGLEUR_DE_FEU.jpg","img/prestations/JONGLEUR_DE_FEU_AUX_BOLAS.jpg","img/prestations/JONGLEUR_AVEC_DES_ARTIFICES.jpg"]
 weight=20
 +++
@@ -12,8 +12,11 @@ weight=20
 "ONIRIQUE ET POÈTE, LE FEU LAISSE SONGEUR. IL EST UN MONDE À LUI SEUL" 
 
 DEPUIS LA NUIT DES TEMPS, IL NOUS EST CHER
+
 SI PRÉCIEUX ET POURTANT ÉPHÉMÈRE
+
 À LA FOIS FRAGILE ET D'UNE FORCE DE CARACTÈRE
+
 LE FEU RÉVEILLE EN NOUS NOS INSTINCTS PRIMAIRES
 
 AVEC "TERRE DE FEU", JE VOUS EMMÈNE DANS UN TOURBILLON DE LUMIÈRES, DE FLAMMES ET D'ARTIFICES EN MÊLANT L'ART DU CIRQUE JONGLÉ À CELUI DE LA MAÎTRISE DES FLAMMES. 
