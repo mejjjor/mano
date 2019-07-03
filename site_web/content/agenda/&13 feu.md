@@ -1,0 +1,9 @@
++++
+DATE = "2019-07-03T10:57:00+02:00"
+TITLE = "RETROUVEZ LE SPECTACLE TERRE DE FEU"
+DATES = "LE 29 JUIN 2019 À 23H00"
+LIEU = "FONTAINE LE PORT, 77590"
+LINK= "https://www.manoel-artiste.fr/prestations/spectacle%20de%20feu/"
+WEIGHT=9999865
++++
+

@@ -1,0 +1,9 @@
++++
+DATE = "2019-07-03T10:59:00+02:00"
+TITLE = "NUMÉRO DE JONGLAGE SUR-MESURE POUR LA COMPAGNIE ITINIRAIRE BIS"
+DATES = "LE 29 JUIN 2019 À 14H00 ET 16H00"
+LIEU = "PIERREFITE-SIR-SEINE, 93380"
+LINK= "https://assoitinerairebis.wixsite.com/itinerairebiscirque/la-compagnie"
+WEIGHT=9999864
++++
+

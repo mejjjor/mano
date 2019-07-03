@@ -1,0 +1,9 @@
++++
+DATE = "2019-07-03T10:40:00+02:00"
+TITLE = "RETROUVEZ-MOI EN JONGLEUR ET SCULPTEUR DE BALLON AU FESTIVAL VIVE L'ART DE RUE"
+DATES = "LE 1ER JUIN 2019 ENTRE 14H00 ET 17H00"
+LIEU = "CRETEIL, 93000"
+LINK= "https://www.tourisme-valdemarne.com/agenda/vive-lart-rue-rue-en-fete-a-la-habette/"
+WEIGHT=9999872
++++
+
