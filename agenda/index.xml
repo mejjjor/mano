@@ -1,15 +1,150 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agendas on artiste - performer - jongleur - spectacle de feu - sculpteur de ballons</title>
+    <title>Agendas on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</title>
     <link>http://manoel-artiste.fr/agenda/</link>
-    <description>Recent content in Agendas on artiste - performer - jongleur - spectacle de feu - sculpteur de ballons</description>
+    <description>Recent content in Agendas on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Dec 2018 10:16:49 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 10:59:00 +0200</lastBuildDate>
     
 	<atom:link href="http://manoel-artiste.fr/agenda/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NUMÉRO DE JONGLAGE SUR-MESURE POUR LA COMPAGNIE ITINIRAIRE BIS</title>
+      <link>http://manoel-artiste.fr/agenda/14-jongle/</link>
+      <pubDate>Wed, 03 Jul 2019 10:59:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/14-jongle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RETROUVEZ LE SPECTACLE TERRE DE FEU</title>
+      <link>http://manoel-artiste.fr/agenda/13-feu/</link>
+      <pubDate>Wed, 03 Jul 2019 10:57:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/13-feu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JONGLEUR EN DÉAMBULATION AU FESTIVAL LES EMBARQUÉS</title>
+      <link>http://manoel-artiste.fr/agenda/12-jogleur/</link>
+      <pubDate>Wed, 03 Jul 2019 10:52:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/12-jogleur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPECTACLE DE FEU ET PYROTECHNIE</title>
+      <link>http://manoel-artiste.fr/agenda/11-feu/</link>
+      <pubDate>Wed, 03 Jul 2019 10:51:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/11-feu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JONGLEUR DE FEU VERSION 15 MINUTES</title>
+      <link>http://manoel-artiste.fr/agenda/10-feu/</link>
+      <pubDate>Wed, 03 Jul 2019 10:49:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/10-feu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPECTACLE DE FEU VERSION 15 MINUTES</title>
+      <link>http://manoel-artiste.fr/agenda/9-feu/</link>
+      <pubDate>Wed, 03 Jul 2019 10:46:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/9-feu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ballooneur</title>
+      <link>http://manoel-artiste.fr/agenda/8-ballons/</link>
+      <pubDate>Wed, 03 Jul 2019 10:43:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/8-ballons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RETROUVEZ-MOI EN JONGLEUR ET SCULPTEUR DE BALLON AU FESTIVAL VIVE L&#39;ART DE RUE</title>
+      <link>http://manoel-artiste.fr/agenda/7-jongleur-ballons/</link>
+      <pubDate>Wed, 03 Jul 2019 10:40:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/7-jongleur-ballons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRÉATION SUR MESURE EN DUO DE JONGLEURS POUR LE FESTIVAL DANS TOUS LES SENS</title>
+      <link>http://manoel-artiste.fr/agenda/6-jongleur/</link>
+      <pubDate>Thu, 09 May 2019 18:43:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/6-jongleur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RETROUVEZ MOI EN JONLEUR ET SCULPTEUR DE BALLONS</title>
+      <link>http://manoel-artiste.fr/agenda/5sculpture-jongle/</link>
+      <pubDate>Thu, 09 May 2019 18:40:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/5sculpture-jongle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCULPTEUR DE BALLONS DANS DISNEY VILLAGE</title>
+      <link>http://manoel-artiste.fr/agenda/4sculpture/</link>
+      <pubDate>Thu, 09 May 2019 18:36:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/4sculpture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPECTACLE DE JONGLAGE SUR-MESURE EN ECOLE</title>
+      <link>http://manoel-artiste.fr/agenda/2jonglage/</link>
+      <pubDate>Mon, 04 Mar 2019 15:51:15 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/2jonglage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCULPTURE DE BALLONS POUR CISCO FRANCE</title>
+      <link>http://manoel-artiste.fr/agenda/1sculpture/</link>
+      <pubDate>Mon, 04 Mar 2019 15:36:00 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/1sculpture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTERVENTION DÉAMBULATOIRE EN JONGLEUR</title>
+      <link>http://manoel-artiste.fr/agenda/8sculpture/</link>
+      <pubDate>Thu, 07 Apr 2016 12:10:49 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/8sculpture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JONGLEUR EN DEAMBULATOIRE</title>
+      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</link>
+      <pubDate>Tue, 11 Dec 2018 10:16:49 +0200</pubDate>
+      
+      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SCULPTEUR DE BALLONS</title>
@@ -30,7 +165,7 @@
     </item>
     
     <item>
-      <title>JONGLEUR EN DÉAMBULATION &#43; SPECTACLE DE FEU</title>
+      <title>JONGLEUR EN DÉAMBULATION ET SPECTACLE DE FEU</title>
       <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</link>
       <pubDate>Tue, 11 Dec 2018 10:16:44 +0200</pubDate>
       
@@ -1047,15 +1182,6 @@
     </item>
     
     <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/8sculpture/</link>
-      <pubDate>Thu, 07 Apr 2016 12:10:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/8sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NUMÉRO DE JONGLAGE VASLO</title>
       <link>http://manoel-artiste.fr/agenda/0001vaslo/</link>
       <pubDate>Sun, 20 Mar 2016 18:38:59 +0200</pubDate>
@@ -1084,19 +1210,10 @@
     
     <item>
       <title>CLAIR-OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/1co/</link>
+      <link>http://manoel-artiste.fr/agenda/10co/</link>
       <pubDate>Sun, 20 Mar 2016 18:52:49 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/1co/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CLAIR-OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/2co/</link>
-      <pubDate>Sun, 20 Mar 2016 18:43:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/2co/</guid>
+      <guid>http://manoel-artiste.fr/agenda/10co/</guid>
       <description></description>
     </item>
     
@@ -1151,15 +1268,6 @@
       <pubDate>Sun, 20 Mar 2016 18:40:49 +0200</pubDate>
       
       <guid>http://manoel-artiste.fr/agenda/3deamb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/1sculpture-/</link>
-      <pubDate>Sun, 20 Mar 2016 18:48:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/1sculpture-/</guid>
       <description></description>
     </item>
     
