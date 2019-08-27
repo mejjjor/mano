@@ -1,9 +1,9 @@
 +++
-DATE = "2016-03-20T18:38:49+02:00"
-TITLE = "Retrouvez manoel en sculpteur de ballons"
-DATES = "samedi 6 juillet"
-LIEU = "02300 Chauny"
-LINK= "https://www.manoel-artiste.fr/prestations/sculpteur%20de%20ballons/"
+DATE = "2019-08-27T11:40:00+02:00"
+TITLE = "RETROUVEZ MANOEL EN SCULPTEUR DE BALLONS"
+DATES = "SAMEDI 6 JUILLET"
+LIEU = "02300 CHAUNY"
+LINK= "HTTPS://WWW.MANOEL-ARTISTE.FR/PRESTATIONS/SCULPTEUR%20DE%20BALLONS/"
 WEIGHT= 9999862
 +++
 
