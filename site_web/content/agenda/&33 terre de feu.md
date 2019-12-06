@@ -1,0 +1,9 @@
++++
+DATE = "2019-12-06T14:55:56+02:00"
+TITLE = "SPECTACLE DE FEU"
+DATES = "LE 13 DÉCEMBRE 2019"
+LIEU = "VILLE DE VERNOUILLET 28500"
+LINK= "http://www.mairie-vernouillet.fr/"
+WEIGHT=9999845
++++
+
