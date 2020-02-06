@@ -1,0 +1,9 @@
++++
+DATE = "2020-02-06T21:26:45+02:00"
+TITLE = "RETROUVEZ MOI EN JONGLEUR AVEC UNE CREATION SUR MESURE"
+DATES = "LE 26 FEVRIER 2020"
+LIEU = "PARIS 75016"
+LINK= "https://www.manoel-artiste.fr/prestations/jonglage/"
+WEIGHT=9999837
++++
+
