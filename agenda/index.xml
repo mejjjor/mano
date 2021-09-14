@@ -1,1273 +1,146 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agendas on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</title>
-    <link>http://manoel-artiste.fr/agenda/</link>
-    <description>Recent content in Agendas on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</description>
+    <title>Agendas on </title>
+    <link>/agenda/</link>
+    <description>Recent content in Agendas on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 10:59:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 11:10:42 +0200</lastBuildDate>
+    <atom:link href="/agenda/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="http://manoel-artiste.fr/agenda/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>NUMÉRO DE JONGLAGE SUR-MESURE POUR LA COMPAGNIE ITINIRAIRE BIS</title>
-      <link>http://manoel-artiste.fr/agenda/14-jongle/</link>
-      <pubDate>Wed, 03 Jul 2019 10:59:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/14-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RETROUVEZ LE SPECTACLE TERRE DE FEU</title>
-      <link>http://manoel-artiste.fr/agenda/13-feu/</link>
-      <pubDate>Wed, 03 Jul 2019 10:57:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/13-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION AU FESTIVAL LES EMBARQUÉS</title>
-      <link>http://manoel-artiste.fr/agenda/12-jogleur/</link>
-      <pubDate>Wed, 03 Jul 2019 10:52:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/12-jogleur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU ET PYROTECHNIE</title>
-      <link>http://manoel-artiste.fr/agenda/11-feu/</link>
-      <pubDate>Wed, 03 Jul 2019 10:51:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/11-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR DE FEU VERSION 15 MINUTES</title>
-      <link>http://manoel-artiste.fr/agenda/10-feu/</link>
-      <pubDate>Wed, 03 Jul 2019 10:49:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/10-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU VERSION 15 MINUTES</title>
-      <link>http://manoel-artiste.fr/agenda/9-feu/</link>
-      <pubDate>Wed, 03 Jul 2019 10:46:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/9-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ballooneur</title>
-      <link>http://manoel-artiste.fr/agenda/8-ballons/</link>
-      <pubDate>Wed, 03 Jul 2019 10:43:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/8-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RETROUVEZ-MOI EN JONGLEUR ET SCULPTEUR DE BALLON AU FESTIVAL VIVE L&#39;ART DE RUE</title>
-      <link>http://manoel-artiste.fr/agenda/7-jongleur-ballons/</link>
-      <pubDate>Wed, 03 Jul 2019 10:40:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/7-jongleur-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CRÉATION SUR MESURE EN DUO DE JONGLEURS POUR LE FESTIVAL DANS TOUS LES SENS</title>
-      <link>http://manoel-artiste.fr/agenda/6-jongleur/</link>
-      <pubDate>Thu, 09 May 2019 18:43:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/6-jongleur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RETROUVEZ MOI EN JONLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/5sculpture-jongle/</link>
-      <pubDate>Thu, 09 May 2019 18:40:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/5sculpture-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS DANS DISNEY VILLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/4sculpture/</link>
-      <pubDate>Thu, 09 May 2019 18:36:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/4sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE JONGLAGE SUR-MESURE EN ECOLE</title>
-      <link>http://manoel-artiste.fr/agenda/2jonglage/</link>
-      <pubDate>Mon, 04 Mar 2019 15:51:15 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/2jonglage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS POUR CISCO FRANCE</title>
-      <link>http://manoel-artiste.fr/agenda/1sculpture/</link>
-      <pubDate>Mon, 04 Mar 2019 15:36:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/1sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INTERVENTION DÉAMBULATOIRE EN JONGLEUR</title>
-      <link>http://manoel-artiste.fr/agenda/8sculpture/</link>
-      <pubDate>Thu, 07 Apr 2016 12:10:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/8sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DEAMBULATOIRE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION &#43; SCULPTEUR DE BALLONS POUR IEA PARIS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001iea-paris/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:46 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001iea-paris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION ET SPECTACLE DE FEU</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:44 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETITS PAS DANS LA NEIGE, COMPAGNIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:24 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sculpteur de ballons au cirque d&#39;hiver bouglione</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballonsffc/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:20 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballonsffc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jjongle-theatreiguane/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:17 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jjongle-theatreiguane/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE SUR MESURE,JONGLEUR EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleduo/</link>
-      <pubDate>Tue, 11 Dec 2018 10:16:15 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleduo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE SUR MESURE DE JONGLERIE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleclown-en-route/</link>
-      <pubDate>Mon, 08 Oct 2018 10:18:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleclown-en-route/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons-epinay/</link>
-      <pubDate>Mon, 08 Oct 2018 10:12:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons-epinay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION POUR UN CE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001oukha/</link>
-      <pubDate>Thu, 28 Jun 2018 12:16:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001oukha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLON</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001cirque-silencieux/</link>
-      <pubDate>Thu, 28 Jun 2018 12:10:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001cirque-silencieux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE JEUNE PUBLIC LE CIRQUE SILENCIEUX</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001cirque-silencieux/</link>
-      <pubDate>Thu, 28 Jun 2018 12:24:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001cirque-silencieux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001scarlett/</link>
-      <pubDate>Thu, 28 Jun 2018 12:06:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001scarlett/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001onzebougee/</link>
-      <pubDate>Thu, 28 Jun 2018 12:04:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001onzebougee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLERIE SUR-MESURE POUR PUBLICITÉ DE LA SEINE MUSICALE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001seinemusicale/</link>
-      <pubDate>Thu, 28 Jun 2018 12:00:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001seinemusicale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLES DE JONGLAGE DÉAMBULATOIRE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-lbl/</link>
-      <pubDate>Thu, 28 Jun 2018 11:58:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-lbl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE JONGLAGE SUR-MESURE POUR LA NUIT DES MUSÉES</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-laval2/</link>
-      <pubDate>Thu, 28 Jun 2018 11:55:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-laval2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CRÉATION JONGLAGE SUR-MESURE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-laval1/</link>
-      <pubDate>Mon, 14 May 2018 15:13:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-laval1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-show-feu/</link>
-      <pubDate>Mon, 14 May 2018 15:10:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-show-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>COMÉDIEN-JONGLEUR POUR LE FILM SUR LA PISTE DES ARTS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-planete-momes/</link>
-      <pubDate>Mon, 14 May 2018 15:49:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-planete-momes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLEUR POUR LA MARQUE HAUTE COUTURE VIVIENNE WESTWOOD</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-deam-jongle/</link>
-      <pubDate>Mon, 14 May 2018 15:05:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-deam-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE ENFANT, LE CIRQUE SILENCIEUX</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-cirque-s/</link>
-      <pubDate>Mon, 14 May 2018 15:44:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-cirque-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-ballons-ffc/</link>
-      <pubDate>Mon, 14 May 2018 15:39:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001-ballons-ffc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR, CRÉATION SUR-MESURE KAMEL OUALI</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongle-kamel-ouali/</link>
-      <pubDate>Thu, 08 Feb 2018 16:16:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongle-kamel-ouali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE PARIS EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongle-duo-disney/</link>
-      <pubDate>Thu, 08 Feb 2018 16:16:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongle-duo-disney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</link>
-      <pubDate>Thu, 08 Feb 2018 16:16:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE CIRQUE CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001co/</link>
-      <pubDate>Mon, 22 Jan 2018 16:38:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001co/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</link>
-      <pubDate>Mon, 22 Jan 2018 16:38:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLERIE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001zizanie/</link>
-      <pubDate>Mon, 22 Jan 2018 16:37:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001zizanie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU DÉAMBULATOIRE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</link>
-      <pubDate>Mon, 22 Jan 2018 16:31:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</link>
-      <pubDate>Mon, 22 Jan 2018 16:17:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLAGE ET SCULPTEUR DE BALLON</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleballoncroixrouge/</link>
-      <pubDate>Mon, 22 Jan 2018 16:20:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleballoncroixrouge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</link>
-      <pubDate>Mon, 22 Jan 2018 16:17:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000000001appdn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLON ET JONGLAGE EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleballonsmorang/</link>
-      <pubDate>Mon, 22 Jan 2018 16:14:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000000001jongleballonsmorang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLON</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons/</link>
-      <pubDate>Mon, 22 Jan 2018 16:08:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000000001ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE LUMINEUX</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000001cies/</link>
-      <pubDate>Mon, 22 Jan 2018 16:05:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000000001cies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnemerainville/</link>
-      <pubDate>Mon, 22 Jan 2018 16:00:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnemerainville/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE A PETIT PAS DANS LA NEIGE, CIE T.</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnparis/</link>
-      <pubDate>Mon, 22 Jan 2018 15:59:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000000001appdnparis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE JONGLERIE SUR MESURE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000001jonglelafayette/</link>
-      <pubDate>Mon, 22 Jan 2018 15:33:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000000001jonglelafayette/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DÉAMBULATOIRE EN BALLOONEUR ET JONGLEUR POUR LA VILLE DE VERRIÈRES LE BUISSON</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000001ballonjonglemassy/</link>
-      <pubDate>Mon, 22 Jan 2018 15:14:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000000001ballonjonglemassy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS EN DUO POUR LA SOCIÉTÉ ARKEMA</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000001ballonarkema/</link>
-      <pubDate>Mon, 20 Nov 2017 20:25:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000000001ballonarkema/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS POUR LA SOCIÉTÉ AMAZON</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000001ballonamazon/</link>
-      <pubDate>Mon, 20 Nov 2017 20:22:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000000001ballonamazon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU POUR LE PARC ASNAPIO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000001spectacle-de-feu/</link>
-      <pubDate>Mon, 20 Nov 2017 20:19:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000000001spectacle-de-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET BALLOONEUR POUR L&#39;INAUGURATION DE LA PLACE DU GRAND OUEST</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-massy/</link>
-      <pubDate>Mon, 20 Nov 2017 20:14:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-massy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET SCULPTEUR DE BALLONS POUR L&#39;ESPACE SAINT-QUENTIN</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-st-quentin/</link>
-      <pubDate>Mon, 20 Nov 2017 20:11:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000000001jonglage-et-ballons-st-quentin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DUO POUR LES JOURNÉES DU PATRIMOINE / CRÉATION SUR-MESURE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000001jonglage-duo/</link>
-      <pubDate>Wed, 27 Sep 2017 17:59:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000000001jonglage-duo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE JONGLAGE POUR LES JOURNÉES DU PATRIMOINE / CIE A.S.</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</link>
-      <pubDate>Wed, 27 Sep 2017 17:53:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLAGE EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</link>
-      <pubDate>Wed, 27 Sep 2017 17:50:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000000001jongleur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000001ballons/</link>
-      <pubDate>Mon, 28 Aug 2017 20:32:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000000001ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons-copie-copie/</link>
-      <pubDate>Mon, 28 Aug 2017 20:33:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons-copie-copie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION ET NUMÉRO</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000001jongle-deamb-&#43;-numero/</link>
-      <pubDate>Mon, 28 Aug 2017 20:32:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000000001jongle-deamb-&#43;-numero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons-copie/</link>
-      <pubDate>Mon, 28 Aug 2017 20:26:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons-copie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons/</link>
-      <pubDate>Mon, 28 Aug 2017 20:24:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000000001-sculpture-de-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DEAMBULATION &#43; NUMÉRO</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro-copie/</link>
-      <pubDate>Mon, 28 Aug 2017 20:19:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro-copie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DEAMBULATION &#43; NUMÉRO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro/</link>
-      <pubDate>Mon, 28 Aug 2017 20:16:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000000001-jongleur-d%C3%A9amb&#43;num%C3%A9ro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NUMÉRO JONGLAGE, VASLO</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000001vaslo/</link>
-      <pubDate>Mon, 28 Aug 2017 20:12:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000000001vaslo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET ATELIER CIRQUE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000001-jongle-et-atelier-cirque/</link>
-      <pubDate>Mon, 28 Aug 2017 20:04:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000000001-jongle-et-atelier-cirque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000001-jongle/</link>
-      <pubDate>Wed, 12 Jul 2017 09:55:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000000001-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</link>
-      <pubDate>Wed, 12 Jul 2017 09:53:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000001-jongle/</link>
-      <pubDate>Wed, 12 Jul 2017 09:50:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000000001-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</link>
-      <pubDate>Wed, 12 Jul 2017 09:50:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000000001-jongle-et-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLEURS EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000001dj/</link>
-      <pubDate>Wed, 12 Jul 2017 09:46:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000000001dj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000001-ballons/</link>
-      <pubDate>Wed, 12 Jul 2017 09:41:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000000001-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000001jongle-et-ballons/</link>
-      <pubDate>Wed, 12 Jul 2017 09:41:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000000001jongle-et-ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CLAIR OBSCUR VERSION JEUNE PUBLIC</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000001co-jp/</link>
-      <pubDate>Wed, 12 Jul 2017 09:39:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000000001co-jp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000001-dj/</link>
-      <pubDate>Wed, 12 Jul 2017 09:37:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000000001-dj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>JONGLEUR EN DÉAMBULATION</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000001-dj/</link>
-      <pubDate>Wed, 12 Jul 2017 09:35:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000000001-dj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000001-co/</link>
-      <pubDate>Wed, 12 Jul 2017 09:29:00 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000000001-co/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE LE CIRQUE SILENCIEUX</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000001-cirque-silencieux/</link>
-      <pubDate>Fri, 07 Apr 2017 22:06:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000000001-cirque-silencieux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000001-d%C3%A9ambulation-jonglage/</link>
-      <pubDate>Fri, 07 Apr 2017 22:00:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000000001-d%C3%A9ambulation-jonglage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PERFORMANCE JONGLÉ</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000001-perf-jongle/</link>
-      <pubDate>Fri, 07 Apr 2017 22:00:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000000001-perf-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE JONGLERIE ET FEU POUR LA FÊTE DE POURIM</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000001-jongle-et-feu/</link>
-      <pubDate>Fri, 07 Apr 2017 22:00:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000000001-jongle-et-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ATELIER CIRCASSIEN SUR LE TRAVAIL DE LA CHUTE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000001-atelier-cirque/</link>
-      <pubDate>Fri, 07 Apr 2017 21:43:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000000001-atelier-cirque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000001-sb/</link>
-      <pubDate>Fri, 30 Dec 2016 13:30:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000000001-sb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000001-j/</link>
-      <pubDate>Fri, 30 Dec 2016 13:27:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000000001-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLEUR DE FEU</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000001-j-feu/</link>
-      <pubDate>Fri, 30 Dec 2016 13:24:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000000001-j-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>atelier de cirque avec une classe de CE1 sur le travail de la chute</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000001-j/</link>
-      <pubDate>Fri, 30 Dec 2016 13:24:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000000001-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 13:19:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 13:19:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000001-clair-obscur/</link>
-      <pubDate>Fri, 30 Dec 2016 12:18:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000000001-clair-obscur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 12:17:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Déambulation jonglage et sculpture de ballons</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000001-j-et-sb/</link>
-      <pubDate>Fri, 30 Dec 2016 12:14:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000000001-j-et-sb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 12:09:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 12:09:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 12:07:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 11:11:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000000001-sb/</link>
-      <pubDate>Fri, 30 Dec 2016 11:43:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000000001-sb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000000001-sb/</link>
-      <pubDate>Fri, 30 Dec 2016 11:43:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000000001-sb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 11:11:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000000001-appdln/</link>
-      <pubDate>Fri, 30 Dec 2016 11:11:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000000001-appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000000001-clair-obqcur/</link>
-      <pubDate>Fri, 30 Dec 2016 11:04:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000000001-clair-obqcur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000000001-jongleur-et-ballon/</link>
-      <pubDate>Thu, 01 Dec 2016 21:05:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000000001-jongleur-et-ballon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLEUR ET SCULPTEUR DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000000001-jongle-et-ballon/</link>
-      <pubDate>Thu, 01 Dec 2016 21:03:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000000001-jongle-et-ballon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE CLAIR-OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000000001clair-obscur/</link>
-      <pubDate>Thu, 01 Dec 2016 20:58:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000000001clair-obscur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE À PETIT PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000000001appdln/</link>
-      <pubDate>Thu, 01 Dec 2016 20:50:45 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000000001appdln/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ÉVENEMENT PRIVÉ EN SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000000001ballons/</link>
-      <pubDate>Thu, 01 Dec 2016 20:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000000001ballons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STAGE ERIC BLOUET/L’ACTEUR ET LE CLOWN</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000000001stageeric-blouet/</link>
-      <pubDate>Wed, 21 Sep 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000000001stageeric-blouet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FÊTE MEDIÉVALE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000000001-fete-med-dinan/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000000001-fete-med-dinan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000000001-deamb-jongle/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000000001-deamb-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000000001-feu-/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000000001-feu-/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPECTACLE DE FEU EN DUO</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000000001-feu/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000000001-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000000001-sculpture/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000000001-sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SPEZCTACLE DE FEU EN SOLO</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000000001-feu/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000000001-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spectacle de feu en duo</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000000001-feu/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000000001-feu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000000001sculpture/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000000001sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NUMÉRO FACE À FACE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000000001-face-a-face/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000000001-face-a-face/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000000000001-deamb-jongle/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/0000000000001-deamb-jongle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000000001sculpture/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/000000000001sculpture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/00000000001deamb-jongle/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/00000000001deamb-jongle/</guid>
-      <description></description>
-    </item>
-    
     <item>
-      <title>FÊTE MÉDEVIALE DE GUÉRANDE </title>
-      <link>http://manoel-artiste.fr/agenda/0000000001fete-med-guerande/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
+      <title>EN AOUT, LES ARTISTES ONT PROPOSÉ DES SPECTACLES EN TANT QUE JONGLEUR, SCULPTEUR DE BALLONS ET DES PERFORMANCES DE FEU ET D&#39;ARTIFICE SUR LE TERRITOIRE FRANCILIEN, SUISSE ET FRANÇAIS</title>
+      <link>/agenda/&amp;55%20aout%202021/</link>
+      <pubDate>Fri, 10 Sep 2021 11:10:42 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/0000000001fete-med-guerande/</guid>
+      <guid>/agenda/&amp;55%20aout%202021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SCULPTURE DE BALLONS ET DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/0000001sculpture-et-jongle/</link>
-      <pubDate>Thu, 21 Jul 2016 09:50:59 +0200</pubDate>
+      <title>EN JUILLET NOUS N&#39;AVONS PAS CHÔMÉ. AU MENU, IL Y&#39;AVAIT :PLUS D&#39;UNE DIZAINE DE REPRÉSENTATIONS DU SPECTACLE CONNECTÉ-E-S AVEC LA COMPAGNIE LES CHEMINS DE TRAVERS AVEC LA VILLE DE FONTENAY-SOUS-BOIS ET LES PARCS DU DÉPARTEMENT DU VAL-DE-MARNE. DEUX REPRÉSENTATIONS EN SCULPTEUR DE BALLONS ET EN JONGLEUR POUR LA VILLE DE SURESNES. DES SPECTACLES DE FEU EN FRANCE ET EN SUISSE.</title>
+      <link>/agenda/&amp;54%20juillet%202021/</link>
+      <pubDate>Fri, 10 Sep 2021 11:04:36 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/0000001sculpture-et-jongle/</guid>
+      <guid>/agenda/&amp;54%20juillet%202021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DÉAMBULATION JONGLAGE ET SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/000000001deamb-jongle-et-sculpture/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
+      <title>EN JUIN LES ARTISTES ANTOINE JACOT ET MANOEL MATHIS ONT RÉPÉTÉ LE SPECTACLE CONNECTÉ-E-S AVEC LE METTEUR EN SCÈNE FABRICE PROVANSAL. PROJET PORTÉ PAR LA COMPAGNIE LES CHEMINS DE TRAVERS. LE PROJET EST SOUTENU FINANCIÈREMENT PAR LA VILLE DE FONTENAY-SOUS-BOIS ET LE DÉPARTEMENT DU VAL-DE-MARNE. EN PARALLÈLE MANOEL MATHIS EST AUSSI INTERVENU AUPRÈS DE LA CRÈCHE PERPIGNAN POUR PRÉSENTER LE SPECTACLE JONGLEUR(S)</title>
+      <link>/agenda/&amp;53%20juin%202021/</link>
+      <pubDate>Fri, 10 Sep 2021 10:46:15 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/000000001deamb-jongle-et-sculpture/</guid>
+      <guid>/agenda/&amp;53%20juin%202021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FÊTE MÉDEVIALE </title>
-      <link>http://manoel-artiste.fr/agenda/00000001fete-med-pontoise/</link>
-      <pubDate>Thu, 21 Jul 2016 09:45:59 +0200</pubDate>
+      <title>EN MAI LES ARTISTES ANTOINE JACOT ET MANOEL MATHIS ONT TERMINÉ LE PROJET DE CRÉATION PARTICIPATIVE AVEC L&#39;INSTITUT ILVM DE SAINT-MANDÉ. CONTENU DE LA CRISE SANITAIRE, UNE RESTITUTION VIDÉO À PU ÊTRE PRÉSENTÉ EST L&#39;ACCUEIL FUT D&#39;UNE GRANDE QUALITÉ. MERCI À TOUS LES PARTICIPANTS. EN PARALLÈLE MANOEL MATHIS EST INTERVENU DURANT LES LUNDIS DE MAI AUPRÈS DE L&#39;ÉCOLE DE CIRQUE ITALO MEDINI. IL A PROPOSÉ UN ENSEIGNEMENT JONGLAGE AUPRÈS DE LA MASTER CLASS JONGLERIE.</title>
+      <link>/agenda/&amp;52%20mai%202021/</link>
+      <pubDate>Fri, 10 Sep 2021 10:33:56 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/00000001fete-med-pontoise/</guid>
+      <guid>/agenda/&amp;52%20mai%202021/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/000001d%C3%A9amb-jongalge/</link>
-      <pubDate>Fri, 13 May 2016 13:12:59 +0200</pubDate>
+      <title>EN JONGLAGE, J&#39;AI RÉALISÉ UNE PRESTATION POUR UN FILM INSTITUTIONNEL. AVEC L&#39;ÉQUIPE ET MES ACCESOIRES DE JONGLEUR, NOUS AVONS TRAVAILLÉ AUTOUR DE LA THÉMATIQUE DE LA SÉCURITÉ</title>
+      <link>/agenda/&amp;51%20jongle%20film%20instit%20-%20Copie/</link>
+      <pubDate>Mon, 03 May 2021 16:56:25 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/000001d%C3%A9amb-jongalge/</guid>
+      <guid>/agenda/&amp;51%20jongle%20film%20instit%20-%20Copie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SCULPTURES DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/00001sculpture/</link>
-      <pubDate>Tue, 10 May 2016 13:13:59 +0200</pubDate>
+      <title>EN JANVIER, FÉVRIER, MARS ET AVRIL 2021 ONT EU LIEU DES RÉPETITIONS ET DES REPRÉSENTATIONS POUR LE FUTUR SPECTACLE DE CIRQUE DE LA COMPAGNIE LES CHEMINS DE TRAVERS. UNE CRÉATION POUR DEUX JONGLEURS</title>
+      <link>/agenda/&amp;50%20jongle%20connect%C3%A9es/</link>
+      <pubDate>Mon, 03 May 2021 16:40:45 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/00001sculpture/</guid>
+      <guid>/agenda/&amp;50%20jongle%20connect%C3%A9es/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NUMÉRO DE JONGLAGE VASLO</title>
-      <link>http://manoel-artiste.fr/agenda/0001vaslo/</link>
-      <pubDate>Sun, 20 Mar 2016 18:38:59 +0200</pubDate>
+      <title>EN DÉCEMBRE, JE DÉAMBULE EN JONGLEUR, JE SCULPTE MES BALLONS ET JE RÉALISE MON SPECTACLE DE FEU. 
+ DES MOMENTS FESTIFS SONT À PRÉVOIR :)</title>
+      <link>/agenda/&amp;49%20jongle%20feu%20ballons/</link>
+      <pubDate>Wed, 06 Jan 2021 11:45:58 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/0001vaslo/</guid>
+      <guid>/agenda/&amp;49%20jongle%20feu%20ballons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SCULPTURE DE BALLONS</title>
-      <link>http://manoel-artiste.fr/agenda/001sculpture/</link>
-      <pubDate>Sun, 20 Mar 2016 18:38:55 +0200</pubDate>
+      <title>NOUS DÉAMBULERONS EN JONGLEURS ET EN SCULPTEURS DE BALLONS LES APRÈS-MIDI DU 5, 9 ET 19 SEPTEMBRE 2020. POUR SÛR, IL Y AURA DES RIRES ET DU PLAISIR</title>
+      <link>/agenda/&amp;48%20jongle%20et%20ballons/</link>
+      <pubDate>Fri, 25 Sep 2020 20:30:05 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/001sculpture/</guid>
+      <guid>/agenda/&amp;48%20jongle%20et%20ballons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>NUMÉRO FACE À FACE DANS LE FREAKS KABARET</title>
-      <link>http://manoel-artiste.fr/agenda/01face%C3%A0face/</link>
-      <pubDate>Sun, 20 Mar 2016 18:38:51 +0200</pubDate>
+      <title>JE JOUERAI MON SPECTACLE DE FEU AVEC SES ARTIFICES DANS LE QUARTIER DES BEAUDOTTES DE SEVRAN. LA REPRÉSENTATION EST À 22H00</title>
+      <link>/agenda/&amp;47%20spectacle%20de%20feu/</link>
+      <pubDate>Fri, 25 Sep 2020 20:30:05 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/01face%C3%A0face/</guid>
+      <guid>/agenda/&amp;47%20spectacle%20de%20feu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CLAIR-OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/10co/</link>
-      <pubDate>Sun, 20 Mar 2016 18:52:49 +0200</pubDate>
+      <title>BALLOONEUR ET JONGLAGE DANS LES DIFFERENTS QUARTIERS DE VILLETANEUSE</title>
+      <link>/agenda/&amp;46%20JONGE%20BALLONS/</link>
+      <pubDate>Thu, 06 Aug 2020 07:03:55 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/10co/</guid>
+      <guid>/agenda/&amp;46%20JONGE%20BALLONS/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CLAIR OBSCUR</title>
-      <link>http://manoel-artiste.fr/agenda/3co/</link>
-      <pubDate>Sun, 20 Mar 2016 18:42:49 +0200</pubDate>
+      <title>PRESTATION EN BALLOONEUR ET EN JONGLEUR ENTRE 14H00 ET 18H00</title>
+      <link>/agenda/&amp;45%20JONGLE%20BALONS/</link>
+      <pubDate>Thu, 06 Aug 2020 16:49:45 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/3co/</guid>
+      <guid>/agenda/&amp;45%20JONGLE%20BALONS/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DÉAMBULATION JONGLAGE POUR LA GOLDEN LEAGUE</title>
-      <link>http://manoel-artiste.fr/agenda/4d%C3%A9amb-copie/</link>
+      <title>NOUS SERONS EN DUO DE JONGLEUR</title>
+      <link>/agenda/&amp;44%20JONGLE/</link>
       <pubDate>Sun, 20 Mar 2016 18:39:49 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/4d%C3%A9amb-copie/</guid>
+      <guid>/agenda/&amp;44%20JONGLE/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DÉAMBULATION JONGLAGE POUR LE CENTRE COMMERCIAL O PARINOR</title>
-      <link>http://manoel-artiste.fr/agenda/7d%C3%A9amb/</link>
-      <pubDate>Sun, 20 Mar 2016 18:21:49 +0200</pubDate>
+      <title>RETROUVER MON SPECTACLE DE FEU</title>
+      <link>/agenda/&amp;43%20feu/</link>
+      <pubDate>Thu, 06 Aug 2020 16:38:00 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/7d%C3%A9amb/</guid>
+      <guid>/agenda/&amp;43%20feu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SPECTACLE À PETITS PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/5tralalaire/</link>
-      <pubDate>Sun, 20 Mar 2016 18:23:49 +0200</pubDate>
+      <title>ARTISTE SCULPTEUR DE BALLONS AVEC LA FFC</title>
+      <link>/agenda/&amp;42%20ballons/</link>
+      <pubDate>Thu, 06 Aug 2020 16:33:49 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/5tralalaire/</guid>
+      <guid>/agenda/&amp;42%20ballons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SPECTACLE À PETITS PAS DANS LA NEIGE</title>
-      <link>http://manoel-artiste.fr/agenda/4tralalaire/</link>
-      <pubDate>Sun, 20 Mar 2016 18:38:49 +0200</pubDate>
+      <title>RETROUVEZ MOI EN JONGLEUR AVEC UNE CREATION SUR MESURE</title>
+      <link>/agenda/&amp;41%20JONGLE/</link>
+      <pubDate>Thu, 06 Feb 2020 21:26:45 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/agenda/4tralalaire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DÉAMBULATION JONGLAGE</title>
-      <link>http://manoel-artiste.fr/agenda/3deamb/</link>
-      <pubDate>Sun, 20 Mar 2016 18:40:49 +0200</pubDate>
-      
-      <guid>http://manoel-artiste.fr/agenda/3deamb/</guid>
+      <guid>/agenda/&amp;41%20JONGLE/</guid>
       <description></description>
     </item>
     

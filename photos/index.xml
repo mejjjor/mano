@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</title>
-    <link>http://manoel-artiste.fr/photos/</link>
-    <description>Recent content in Photos on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</description>
+    <title>Photos on </title>
+    <link>/photos/</link>
+    <description>Recent content in Photos on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2015 13:40:59 +0200</lastBuildDate>
-    
-	<atom:link href="http://manoel-artiste.fr/photos/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/photos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ALL</title>
-      <link>http://manoel-artiste.fr/photos/all/</link>
+      <link>/photos/all/</link>
       <pubDate>Tue, 13 Oct 2015 13:40:59 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/photos/all/</guid>
+      <guid>/photos/all/</guid>
       <description></description>
     </item>
     

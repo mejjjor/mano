@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contacts on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</title>
-    <link>http://manoel-artiste.fr/contact/</link>
-    <description>Recent content in Contacts on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</description>
+    <title>Contacts on </title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2015 13:40:49 +0200</lastBuildDate>
-    
-	<atom:link href="http://manoel-artiste.fr/contact/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>contact</title>
-      <link>http://manoel-artiste.fr/contact/contact/</link>
+      <link>/contact/contact/</link>
       <pubDate>Tue, 13 Oct 2015 13:40:49 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/contact/contact/</guid>
+      <guid>/contact/contact/</guid>
       <description></description>
     </item>
     

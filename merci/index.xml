@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mercis on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</title>
-    <link>http://manoel-artiste.fr/merci/</link>
-    <description>Recent content in Mercis on Jongleur - Sculpteur de ballons - Spectacle de feu - Paris</description>
+    <title>Mercis on </title>
+    <link>/merci/</link>
+    <description>Recent content in Mercis on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Tue, 13 Oct 2015 13:40:49 +0200</lastBuildDate>
-    
-	<atom:link href="http://manoel-artiste.fr/merci/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/merci/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>merci</title>
-      <link>http://manoel-artiste.fr/merci/merci/</link>
+      <link>/merci/merci/</link>
       <pubDate>Tue, 13 Oct 2015 13:40:49 +0200</pubDate>
       
-      <guid>http://manoel-artiste.fr/merci/merci/</guid>
+      <guid>/merci/merci/</guid>
       <description></description>
     </item>
     
