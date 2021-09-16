@@ -12,7 +12,7 @@ metaDataFormat = "toml"
     author = "Manoel Mathis"
     subdomain = ""
     images=["img/home/home_1.jpg","img/home/home_2.jpg","img/home/home_3.jpg","img/home/home_4.jpg","img/home/home_5.jpg","img/home/home_6.jpg","img/home/home_7.jpg","img/home/home_8.jpg"]
-    image="img/home/BQ_anniere_jongle_feu_ballons2.jpg"
+    image="img/home/home_accueil.jpg"
     local = "fr"
 
 [[menu.main]]
