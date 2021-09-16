@@ -4,7 +4,7 @@ title = "JONGLEUR"
 titlepage = "JONGLEUR"
 description="DÉAMBULATIONS CRÉATIVES ORIGINALES"
 thumbnail="/img/prestations/JONGLEUR_PARIS.jpg"
-video="https://www.youtube.com/embed/GefC4gZNIHo"
+video="https://www.youtube.com/embed/uKlt0wsMLYo"
 images=["img/prestations/JONGLEUR_BALLES.jpg","img/prestations/JONGLEUR_CRISTAL.jpg","img/prestations/JONGLEUR_DE_MASSUES_PARIS.jpg","img/prestations/ARTISTE_JONGLEUR_BALLE_CRISTAL.jpg","img/prestations/JONGLEUR_DE_BALLES_A_PARIS.jpg","img/prestations/PERFORMER_JONGLEUR_AVEC_MASSUES.jpg"]
 weight=30
 +++
