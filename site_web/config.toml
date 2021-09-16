@@ -7,12 +7,12 @@ disableRSS=true
 metaDataFormat = "toml"
 
 [params]
-    description = "Je propose des spectacles en jongleur, sculpteur de ballons et des spectacles de feu, à Paris et partout en France"
+    description = "Retrouvez des spectacles en jongleur, sculpteur de ballons et des spectacles de feu, à Paris et partout en France"
     generator="Hugo 0.14"
     author = "Manoel Mathis"
     subdomain = ""
     images=["img/home/home_1.jpg","img/home/home_2.jpg","img/home/home_3.jpg","img/home/home_4.jpg","img/home/home_5.jpg","img/home/home_6.jpg","img/home/home_7.jpg","img/home/home_8.jpg"]
-    image="img/home/home_profil.jpg"
+    image="img/home/BQ_anniere_jongle_feu_ballons.jpg"
     local = "fr"
 
 [[menu.main]]
