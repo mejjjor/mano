@@ -6,4 +6,3 @@ images=["img/prestations/SPECTACLE_DE_FEU_POETIQUE.jpg","img/prestations/BALLOON
 
 +++
 
-"img/prestations/ARTISTE_1.jpg",
