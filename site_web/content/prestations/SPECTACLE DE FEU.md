@@ -4,7 +4,7 @@ title = "SPECTACLE DE FEU"
 titlepage = "SPECTACLE DE FEU"
 description="UN FIRE SHOW EXPLOSIF"
 thumbnail="/img/prestations/SPECTACLE_DE_FEU.jpg"
-video="https://youtu.be/uKlt0wsMLYo"
+video="https://youtu.be/embed/uKlt0wsMLYo"
 images=["img/prestations/JONGLEUR_DE_FEU.jpg","img/prestations/JONGLEUR_DE_FEU_AUX_BOLAS.jpg","img/prestations/JONGLEUR_AVEC_DES_ARTIFICES.jpg","img/prestations/SPECTACLE_FEU.jpg","img/prestations/PYROTECHNIE.jpg","img/prestations/ARTIFICES.jpg"]
 weight=20
 +++
